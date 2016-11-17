@@ -1,4 +1,5 @@
 # 📏 Metrick
+[![npm](https://img.shields.io/npm/v/metrick.svg?maxAge=2592000)](https://www.npmjs.com/package/metrick) ![metrick](https://img.shields.io/npm/l/metrick.svg?maxAge=2592000)  [![Build Status](https://travis-ci.org/ticky/metrick.svg?branch=master)](https://travis-ci.org/ticky/metrick) [![codecov](https://codecov.io/gh/ticky/metrick/branch/master/graph/badge.svg)](https://codecov.io/gh/ticky/metrick)
 
 Babel-powered unit magick
 
