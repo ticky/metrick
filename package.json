@@ -12,10 +12,16 @@
   "keywords": [
     "babel",
     "babel-plugin-transform-function-bind",
+    "conversion",
+    "convert",
+    "data",
+    "duration",
     "imperial",
     "magic",
     "magick",
-    "metric"
+    "metric",
+    "temperature",
+    "time"
   ],
   "homepage": "https://github.com/ticky/metrick",
   "bugs": {

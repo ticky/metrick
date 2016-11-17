@@ -1,4 +1,4 @@
-/* global describe, it, expect */
+/* global describe, it, expect, jest */
 import Unit from './unit';
 import * as index from './index';
 
@@ -7,6 +7,21 @@ const { Duration, duration: { hours, milliseconds } } = index;
 describe('Unit', () => {
   it('uses a default multiplier of 1', () => {
     expect(new Unit().multiplier).toBe(1);
+  });
+
+  it(`allows overriding \`convertToBase\` and \`convertFromBase\``, () => {
+    const overrides = {
+      convertToBase: jest.fn(),
+      convertFromBase: jest.fn()
+    };
+
+    expect(() => new Unit(overrides)).not.toThrowError();
+    expect((new Unit(overrides)).convertToBase).toBe(overrides.convertToBase);
+    expect((new Unit(overrides)).convertFromBase).toBe(overrides.convertFromBase);
+  });
+
+  it('throws if overriding an unsupported method', () => {
+    expect(() => new Unit({ bind() {} })).toThrowErrorMatchingSnapshot();
   });
 
   describe('in', () => {

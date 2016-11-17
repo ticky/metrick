@@ -118,7 +118,7 @@ console.log(12::dotBeats.in(minutes)); // => 17.280000000000005
 
 Currently, Metrick includes units for Data and Duration.
 
-_**Note**: All built-in units are exported with their singular and plural names, here we only list plural for brevity._
+_**Note**: All built-in units are exported with their singular and plural names - here we only list plural for brevity._
 
 #### Data
 
@@ -160,6 +160,14 @@ _**Note**: All built-in units are exported with their singular and plural names,
 * `seconds` (SI base unit)
 * `weeks`
 * `years`
+
+#### Temperature
+
+_**Note**: Built-in temperature units are exported both with and without `degrees` prefix - here we only list without for brevity._
+
+* `celsius`
+* `fahrenheit`
+* `kelvin` (SI base unit, implicit unit)
 
 ### Full-library export
 
