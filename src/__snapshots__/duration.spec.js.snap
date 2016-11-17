@@ -1,0 +1,596 @@
+exports[`durations \`day\` converts correctly into \`day\` 1`] = `1`;
+
+exports[`durations \`day\` converts correctly into \`days\` 1`] = `1`;
+
+exports[`durations \`day\` converts correctly into \`hour\` 1`] = `24`;
+
+exports[`durations \`day\` converts correctly into \`hours\` 1`] = `24`;
+
+exports[`durations \`day\` converts correctly into \`millisecond\` 1`] = `86400000`;
+
+exports[`durations \`day\` converts correctly into \`milliseconds\` 1`] = `86400000`;
+
+exports[`durations \`day\` converts correctly into \`minute\` 1`] = `1440`;
+
+exports[`durations \`day\` converts correctly into \`minutes\` 1`] = `1440`;
+
+exports[`durations \`day\` converts correctly into \`month\` 1`] = `0.032876712328406825`;
+
+exports[`durations \`day\` converts correctly into \`months\` 1`] = `0.032876712328406825`;
+
+exports[`durations \`day\` converts correctly into \`second\` 1`] = `86400`;
+
+exports[`durations \`day\` converts correctly into \`seconds\` 1`] = `86400`;
+
+exports[`durations \`day\` converts correctly into \`week\` 1`] = `0.14285714285714285`;
+
+exports[`durations \`day\` converts correctly into \`weeks\` 1`] = `0.14285714285714285`;
+
+exports[`durations \`day\` converts correctly into \`year\` 1`] = `0.002737476047084588`;
+
+exports[`durations \`day\` converts correctly into \`years\` 1`] = `0.002737476047084588`;
+
+exports[`durations \`day\` converts to an implicit quantity when simply bound 1`] = `86400000`;
+
+exports[`durations \`day\` has the correct multiplier 1`] = `86400`;
+
+exports[`durations \`days\` converts correctly into \`day\` 1`] = `1`;
+
+exports[`durations \`days\` converts correctly into \`days\` 1`] = `1`;
+
+exports[`durations \`days\` converts correctly into \`hour\` 1`] = `24`;
+
+exports[`durations \`days\` converts correctly into \`hours\` 1`] = `24`;
+
+exports[`durations \`days\` converts correctly into \`millisecond\` 1`] = `86400000`;
+
+exports[`durations \`days\` converts correctly into \`milliseconds\` 1`] = `86400000`;
+
+exports[`durations \`days\` converts correctly into \`minute\` 1`] = `1440`;
+
+exports[`durations \`days\` converts correctly into \`minutes\` 1`] = `1440`;
+
+exports[`durations \`days\` converts correctly into \`month\` 1`] = `0.032876712328406825`;
+
+exports[`durations \`days\` converts correctly into \`months\` 1`] = `0.032876712328406825`;
+
+exports[`durations \`days\` converts correctly into \`second\` 1`] = `86400`;
+
+exports[`durations \`days\` converts correctly into \`seconds\` 1`] = `86400`;
+
+exports[`durations \`days\` converts correctly into \`week\` 1`] = `0.14285714285714285`;
+
+exports[`durations \`days\` converts correctly into \`weeks\` 1`] = `0.14285714285714285`;
+
+exports[`durations \`days\` converts correctly into \`year\` 1`] = `0.002737476047084588`;
+
+exports[`durations \`days\` converts correctly into \`years\` 1`] = `0.002737476047084588`;
+
+exports[`durations \`days\` converts to an implicit quantity when simply bound 1`] = `86400000`;
+
+exports[`durations \`days\` has the correct multiplier 1`] = `86400`;
+
+exports[`durations \`hour\` converts correctly into \`day\` 1`] = `0.041666666666666664`;
+
+exports[`durations \`hour\` converts correctly into \`days\` 1`] = `0.041666666666666664`;
+
+exports[`durations \`hour\` converts correctly into \`hour\` 1`] = `1`;
+
+exports[`durations \`hour\` converts correctly into \`hours\` 1`] = `1`;
+
+exports[`durations \`hour\` converts correctly into \`millisecond\` 1`] = `3600000`;
+
+exports[`durations \`hour\` converts correctly into \`milliseconds\` 1`] = `3600000`;
+
+exports[`durations \`hour\` converts correctly into \`minute\` 1`] = `60`;
+
+exports[`durations \`hour\` converts correctly into \`minutes\` 1`] = `60`;
+
+exports[`durations \`hour\` converts correctly into \`month\` 1`] = `0.0013698630136836179`;
+
+exports[`durations \`hour\` converts correctly into \`months\` 1`] = `0.0013698630136836179`;
+
+exports[`durations \`hour\` converts correctly into \`second\` 1`] = `3600`;
+
+exports[`durations \`hour\` converts correctly into \`seconds\` 1`] = `3600`;
+
+exports[`durations \`hour\` converts correctly into \`week\` 1`] = `0.005952380952380952`;
+
+exports[`durations \`hour\` converts correctly into \`weeks\` 1`] = `0.005952380952380952`;
+
+exports[`durations \`hour\` converts correctly into \`year\` 1`] = `0.00011406150196185784`;
+
+exports[`durations \`hour\` converts correctly into \`years\` 1`] = `0.00011406150196185784`;
+
+exports[`durations \`hour\` converts to an implicit quantity when simply bound 1`] = `3600000`;
+
+exports[`durations \`hour\` has the correct multiplier 1`] = `3600`;
+
+exports[`durations \`hours\` converts correctly into \`day\` 1`] = `0.041666666666666664`;
+
+exports[`durations \`hours\` converts correctly into \`days\` 1`] = `0.041666666666666664`;
+
+exports[`durations \`hours\` converts correctly into \`hour\` 1`] = `1`;
+
+exports[`durations \`hours\` converts correctly into \`hours\` 1`] = `1`;
+
+exports[`durations \`hours\` converts correctly into \`millisecond\` 1`] = `3600000`;
+
+exports[`durations \`hours\` converts correctly into \`milliseconds\` 1`] = `3600000`;
+
+exports[`durations \`hours\` converts correctly into \`minute\` 1`] = `60`;
+
+exports[`durations \`hours\` converts correctly into \`minutes\` 1`] = `60`;
+
+exports[`durations \`hours\` converts correctly into \`month\` 1`] = `0.0013698630136836179`;
+
+exports[`durations \`hours\` converts correctly into \`months\` 1`] = `0.0013698630136836179`;
+
+exports[`durations \`hours\` converts correctly into \`second\` 1`] = `3600`;
+
+exports[`durations \`hours\` converts correctly into \`seconds\` 1`] = `3600`;
+
+exports[`durations \`hours\` converts correctly into \`week\` 1`] = `0.005952380952380952`;
+
+exports[`durations \`hours\` converts correctly into \`weeks\` 1`] = `0.005952380952380952`;
+
+exports[`durations \`hours\` converts correctly into \`year\` 1`] = `0.00011406150196185784`;
+
+exports[`durations \`hours\` converts correctly into \`years\` 1`] = `0.00011406150196185784`;
+
+exports[`durations \`hours\` converts to an implicit quantity when simply bound 1`] = `3600000`;
+
+exports[`durations \`hours\` has the correct multiplier 1`] = `3600`;
+
+exports[`durations \`millisecond\` converts correctly into \`day\` 1`] = `1.1574074074074074e-8`;
+
+exports[`durations \`millisecond\` converts correctly into \`days\` 1`] = `1.1574074074074074e-8`;
+
+exports[`durations \`millisecond\` converts correctly into \`hour\` 1`] = `2.7777777777777776e-7`;
+
+exports[`durations \`millisecond\` converts correctly into \`hours\` 1`] = `2.7777777777777776e-7`;
+
+exports[`durations \`millisecond\` converts correctly into \`millisecond\` 1`] = `1`;
+
+exports[`durations \`millisecond\` converts correctly into \`milliseconds\` 1`] = `1`;
+
+exports[`durations \`millisecond\` converts correctly into \`minute\` 1`] = `0.000016666666666666667`;
+
+exports[`durations \`millisecond\` converts correctly into \`minutes\` 1`] = `0.000016666666666666667`;
+
+exports[`durations \`millisecond\` converts correctly into \`month\` 1`] = `3.8051750380100495e-10`;
+
+exports[`durations \`millisecond\` converts correctly into \`months\` 1`] = `3.8051750380100495e-10`;
+
+exports[`durations \`millisecond\` converts correctly into \`second\` 1`] = `0.001`;
+
+exports[`durations \`millisecond\` converts correctly into \`seconds\` 1`] = `0.001`;
+
+exports[`durations \`millisecond\` converts correctly into \`week\` 1`] = `1.6534391534391535e-9`;
+
+exports[`durations \`millisecond\` converts correctly into \`weeks\` 1`] = `1.6534391534391535e-9`;
+
+exports[`durations \`millisecond\` converts correctly into \`year\` 1`] = `3.168375054496051e-11`;
+
+exports[`durations \`millisecond\` converts correctly into \`years\` 1`] = `3.168375054496051e-11`;
+
+exports[`durations \`millisecond\` converts to an implicit quantity when simply bound 1`] = `1`;
+
+exports[`durations \`millisecond\` has the correct multiplier 1`] = `0.001`;
+
+exports[`durations \`milliseconds\` converts correctly into \`day\` 1`] = `1.1574074074074074e-8`;
+
+exports[`durations \`milliseconds\` converts correctly into \`days\` 1`] = `1.1574074074074074e-8`;
+
+exports[`durations \`milliseconds\` converts correctly into \`hour\` 1`] = `2.7777777777777776e-7`;
+
+exports[`durations \`milliseconds\` converts correctly into \`hours\` 1`] = `2.7777777777777776e-7`;
+
+exports[`durations \`milliseconds\` converts correctly into \`millisecond\` 1`] = `1`;
+
+exports[`durations \`milliseconds\` converts correctly into \`milliseconds\` 1`] = `1`;
+
+exports[`durations \`milliseconds\` converts correctly into \`minute\` 1`] = `0.000016666666666666667`;
+
+exports[`durations \`milliseconds\` converts correctly into \`minutes\` 1`] = `0.000016666666666666667`;
+
+exports[`durations \`milliseconds\` converts correctly into \`month\` 1`] = `3.8051750380100495e-10`;
+
+exports[`durations \`milliseconds\` converts correctly into \`months\` 1`] = `3.8051750380100495e-10`;
+
+exports[`durations \`milliseconds\` converts correctly into \`second\` 1`] = `0.001`;
+
+exports[`durations \`milliseconds\` converts correctly into \`seconds\` 1`] = `0.001`;
+
+exports[`durations \`milliseconds\` converts correctly into \`week\` 1`] = `1.6534391534391535e-9`;
+
+exports[`durations \`milliseconds\` converts correctly into \`weeks\` 1`] = `1.6534391534391535e-9`;
+
+exports[`durations \`milliseconds\` converts correctly into \`year\` 1`] = `3.168375054496051e-11`;
+
+exports[`durations \`milliseconds\` converts correctly into \`years\` 1`] = `3.168375054496051e-11`;
+
+exports[`durations \`milliseconds\` converts to an implicit quantity when simply bound 1`] = `1`;
+
+exports[`durations \`milliseconds\` has the correct multiplier 1`] = `0.001`;
+
+exports[`durations \`minute\` converts correctly into \`day\` 1`] = `0.0006944444444444445`;
+
+exports[`durations \`minute\` converts correctly into \`days\` 1`] = `0.0006944444444444445`;
+
+exports[`durations \`minute\` converts correctly into \`hour\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`minute\` converts correctly into \`hours\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`minute\` converts correctly into \`millisecond\` 1`] = `60000`;
+
+exports[`durations \`minute\` converts correctly into \`milliseconds\` 1`] = `60000`;
+
+exports[`durations \`minute\` converts correctly into \`minute\` 1`] = `1`;
+
+exports[`durations \`minute\` converts correctly into \`minutes\` 1`] = `1`;
+
+exports[`durations \`minute\` converts correctly into \`month\` 1`] = `0.000022831050228060296`;
+
+exports[`durations \`minute\` converts correctly into \`months\` 1`] = `0.000022831050228060296`;
+
+exports[`durations \`minute\` converts correctly into \`second\` 1`] = `60`;
+
+exports[`durations \`minute\` converts correctly into \`seconds\` 1`] = `60`;
+
+exports[`durations \`minute\` converts correctly into \`week\` 1`] = `0.0000992063492063492`;
+
+exports[`durations \`minute\` converts correctly into \`weeks\` 1`] = `0.0000992063492063492`;
+
+exports[`durations \`minute\` converts correctly into \`year\` 1`] = `0.0000019010250326976306`;
+
+exports[`durations \`minute\` converts correctly into \`years\` 1`] = `0.0000019010250326976306`;
+
+exports[`durations \`minute\` converts to an implicit quantity when simply bound 1`] = `60000`;
+
+exports[`durations \`minute\` has the correct multiplier 1`] = `60`;
+
+exports[`durations \`minutes\` converts correctly into \`day\` 1`] = `0.0006944444444444445`;
+
+exports[`durations \`minutes\` converts correctly into \`days\` 1`] = `0.0006944444444444445`;
+
+exports[`durations \`minutes\` converts correctly into \`hour\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`minutes\` converts correctly into \`hours\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`minutes\` converts correctly into \`millisecond\` 1`] = `60000`;
+
+exports[`durations \`minutes\` converts correctly into \`milliseconds\` 1`] = `60000`;
+
+exports[`durations \`minutes\` converts correctly into \`minute\` 1`] = `1`;
+
+exports[`durations \`minutes\` converts correctly into \`minutes\` 1`] = `1`;
+
+exports[`durations \`minutes\` converts correctly into \`month\` 1`] = `0.000022831050228060296`;
+
+exports[`durations \`minutes\` converts correctly into \`months\` 1`] = `0.000022831050228060296`;
+
+exports[`durations \`minutes\` converts correctly into \`second\` 1`] = `60`;
+
+exports[`durations \`minutes\` converts correctly into \`seconds\` 1`] = `60`;
+
+exports[`durations \`minutes\` converts correctly into \`week\` 1`] = `0.0000992063492063492`;
+
+exports[`durations \`minutes\` converts correctly into \`weeks\` 1`] = `0.0000992063492063492`;
+
+exports[`durations \`minutes\` converts correctly into \`year\` 1`] = `0.0000019010250326976306`;
+
+exports[`durations \`minutes\` converts correctly into \`years\` 1`] = `0.0000019010250326976306`;
+
+exports[`durations \`minutes\` converts to an implicit quantity when simply bound 1`] = `60000`;
+
+exports[`durations \`minutes\` has the correct multiplier 1`] = `60`;
+
+exports[`durations \`month\` converts correctly into \`day\` 1`] = `30.416666667`;
+
+exports[`durations \`month\` converts correctly into \`days\` 1`] = `30.416666667`;
+
+exports[`durations \`month\` converts correctly into \`hour\` 1`] = `730.000000008`;
+
+exports[`durations \`month\` converts correctly into \`hours\` 1`] = `730.000000008`;
+
+exports[`durations \`month\` converts correctly into \`millisecond\` 1`] = `2628000000.0288`;
+
+exports[`durations \`month\` converts correctly into \`milliseconds\` 1`] = `2628000000.0288`;
+
+exports[`durations \`month\` converts correctly into \`minute\` 1`] = `43800.00000048`;
+
+exports[`durations \`month\` converts correctly into \`minutes\` 1`] = `43800.00000048`;
+
+exports[`durations \`month\` converts correctly into \`month\` 1`] = `1`;
+
+exports[`durations \`month\` converts correctly into \`months\` 1`] = `1`;
+
+exports[`durations \`month\` converts correctly into \`second\` 1`] = `2628000.0000288`;
+
+exports[`durations \`month\` converts correctly into \`seconds\` 1`] = `2628000.0000288`;
+
+exports[`durations \`month\` converts correctly into \`week\` 1`] = `4.345238095285715`;
+
+exports[`durations \`month\` converts correctly into \`weeks\` 1`] = `4.345238095285715`;
+
+exports[`durations \`month\` converts correctly into \`year\` 1`] = `0.08326489643306871`;
+
+exports[`durations \`month\` converts correctly into \`years\` 1`] = `0.08326489643306871`;
+
+exports[`durations \`month\` converts to an implicit quantity when simply bound 1`] = `2628000000.0288`;
+
+exports[`durations \`month\` has the correct multiplier 1`] = `2628000.0000288`;
+
+exports[`durations \`months\` converts correctly into \`day\` 1`] = `30.416666667`;
+
+exports[`durations \`months\` converts correctly into \`days\` 1`] = `30.416666667`;
+
+exports[`durations \`months\` converts correctly into \`hour\` 1`] = `730.000000008`;
+
+exports[`durations \`months\` converts correctly into \`hours\` 1`] = `730.000000008`;
+
+exports[`durations \`months\` converts correctly into \`millisecond\` 1`] = `2628000000.0288`;
+
+exports[`durations \`months\` converts correctly into \`milliseconds\` 1`] = `2628000000.0288`;
+
+exports[`durations \`months\` converts correctly into \`minute\` 1`] = `43800.00000048`;
+
+exports[`durations \`months\` converts correctly into \`minutes\` 1`] = `43800.00000048`;
+
+exports[`durations \`months\` converts correctly into \`month\` 1`] = `1`;
+
+exports[`durations \`months\` converts correctly into \`months\` 1`] = `1`;
+
+exports[`durations \`months\` converts correctly into \`second\` 1`] = `2628000.0000288`;
+
+exports[`durations \`months\` converts correctly into \`seconds\` 1`] = `2628000.0000288`;
+
+exports[`durations \`months\` converts correctly into \`week\` 1`] = `4.345238095285715`;
+
+exports[`durations \`months\` converts correctly into \`weeks\` 1`] = `4.345238095285715`;
+
+exports[`durations \`months\` converts correctly into \`year\` 1`] = `0.08326489643306871`;
+
+exports[`durations \`months\` converts correctly into \`years\` 1`] = `0.08326489643306871`;
+
+exports[`durations \`months\` converts to an implicit quantity when simply bound 1`] = `2628000000.0288`;
+
+exports[`durations \`months\` has the correct multiplier 1`] = `2628000.0000288`;
+
+exports[`durations \`second\` converts correctly into \`day\` 1`] = `0.000011574074074074073`;
+
+exports[`durations \`second\` converts correctly into \`days\` 1`] = `0.000011574074074074073`;
+
+exports[`durations \`second\` converts correctly into \`hour\` 1`] = `0.0002777777777777778`;
+
+exports[`durations \`second\` converts correctly into \`hours\` 1`] = `0.0002777777777777778`;
+
+exports[`durations \`second\` converts correctly into \`millisecond\` 1`] = `1000`;
+
+exports[`durations \`second\` converts correctly into \`milliseconds\` 1`] = `1000`;
+
+exports[`durations \`second\` converts correctly into \`minute\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`second\` converts correctly into \`minutes\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`second\` converts correctly into \`month\` 1`] = `3.8051750380100493e-7`;
+
+exports[`durations \`second\` converts correctly into \`months\` 1`] = `3.8051750380100493e-7`;
+
+exports[`durations \`second\` converts correctly into \`second\` 1`] = `1`;
+
+exports[`durations \`second\` converts correctly into \`seconds\` 1`] = `1`;
+
+exports[`durations \`second\` converts correctly into \`week\` 1`] = `0.0000016534391534391535`;
+
+exports[`durations \`second\` converts correctly into \`weeks\` 1`] = `0.0000016534391534391535`;
+
+exports[`durations \`second\` converts correctly into \`year\` 1`] = `3.168375054496051e-8`;
+
+exports[`durations \`second\` converts correctly into \`years\` 1`] = `3.168375054496051e-8`;
+
+exports[`durations \`second\` converts to an implicit quantity when simply bound 1`] = `1000`;
+
+exports[`durations \`second\` has the correct multiplier 1`] = `1`;
+
+exports[`durations \`seconds\` converts correctly into \`day\` 1`] = `0.000011574074074074073`;
+
+exports[`durations \`seconds\` converts correctly into \`days\` 1`] = `0.000011574074074074073`;
+
+exports[`durations \`seconds\` converts correctly into \`hour\` 1`] = `0.0002777777777777778`;
+
+exports[`durations \`seconds\` converts correctly into \`hours\` 1`] = `0.0002777777777777778`;
+
+exports[`durations \`seconds\` converts correctly into \`millisecond\` 1`] = `1000`;
+
+exports[`durations \`seconds\` converts correctly into \`milliseconds\` 1`] = `1000`;
+
+exports[`durations \`seconds\` converts correctly into \`minute\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`seconds\` converts correctly into \`minutes\` 1`] = `0.016666666666666666`;
+
+exports[`durations \`seconds\` converts correctly into \`month\` 1`] = `3.8051750380100493e-7`;
+
+exports[`durations \`seconds\` converts correctly into \`months\` 1`] = `3.8051750380100493e-7`;
+
+exports[`durations \`seconds\` converts correctly into \`second\` 1`] = `1`;
+
+exports[`durations \`seconds\` converts correctly into \`seconds\` 1`] = `1`;
+
+exports[`durations \`seconds\` converts correctly into \`week\` 1`] = `0.0000016534391534391535`;
+
+exports[`durations \`seconds\` converts correctly into \`weeks\` 1`] = `0.0000016534391534391535`;
+
+exports[`durations \`seconds\` converts correctly into \`year\` 1`] = `3.168375054496051e-8`;
+
+exports[`durations \`seconds\` converts correctly into \`years\` 1`] = `3.168375054496051e-8`;
+
+exports[`durations \`seconds\` converts to an implicit quantity when simply bound 1`] = `1000`;
+
+exports[`durations \`seconds\` has the correct multiplier 1`] = `1`;
+
+exports[`durations \`week\` converts correctly into \`day\` 1`] = `7`;
+
+exports[`durations \`week\` converts correctly into \`days\` 1`] = `7`;
+
+exports[`durations \`week\` converts correctly into \`hour\` 1`] = `168`;
+
+exports[`durations \`week\` converts correctly into \`hours\` 1`] = `168`;
+
+exports[`durations \`week\` converts correctly into \`millisecond\` 1`] = `604800000`;
+
+exports[`durations \`week\` converts correctly into \`milliseconds\` 1`] = `604800000`;
+
+exports[`durations \`week\` converts correctly into \`minute\` 1`] = `10080`;
+
+exports[`durations \`week\` converts correctly into \`minutes\` 1`] = `10080`;
+
+exports[`durations \`week\` converts correctly into \`month\` 1`] = `0.2301369862988478`;
+
+exports[`durations \`week\` converts correctly into \`months\` 1`] = `0.2301369862988478`;
+
+exports[`durations \`week\` converts correctly into \`second\` 1`] = `604800`;
+
+exports[`durations \`week\` converts correctly into \`seconds\` 1`] = `604800`;
+
+exports[`durations \`week\` converts correctly into \`week\` 1`] = `1`;
+
+exports[`durations \`week\` converts correctly into \`weeks\` 1`] = `1`;
+
+exports[`durations \`week\` converts correctly into \`year\` 1`] = `0.019162332329592115`;
+
+exports[`durations \`week\` converts correctly into \`years\` 1`] = `0.019162332329592115`;
+
+exports[`durations \`week\` converts to an implicit quantity when simply bound 1`] = `604800000`;
+
+exports[`durations \`week\` has the correct multiplier 1`] = `604800`;
+
+exports[`durations \`weeks\` converts correctly into \`day\` 1`] = `7`;
+
+exports[`durations \`weeks\` converts correctly into \`days\` 1`] = `7`;
+
+exports[`durations \`weeks\` converts correctly into \`hour\` 1`] = `168`;
+
+exports[`durations \`weeks\` converts correctly into \`hours\` 1`] = `168`;
+
+exports[`durations \`weeks\` converts correctly into \`millisecond\` 1`] = `604800000`;
+
+exports[`durations \`weeks\` converts correctly into \`milliseconds\` 1`] = `604800000`;
+
+exports[`durations \`weeks\` converts correctly into \`minute\` 1`] = `10080`;
+
+exports[`durations \`weeks\` converts correctly into \`minutes\` 1`] = `10080`;
+
+exports[`durations \`weeks\` converts correctly into \`month\` 1`] = `0.2301369862988478`;
+
+exports[`durations \`weeks\` converts correctly into \`months\` 1`] = `0.2301369862988478`;
+
+exports[`durations \`weeks\` converts correctly into \`second\` 1`] = `604800`;
+
+exports[`durations \`weeks\` converts correctly into \`seconds\` 1`] = `604800`;
+
+exports[`durations \`weeks\` converts correctly into \`week\` 1`] = `1`;
+
+exports[`durations \`weeks\` converts correctly into \`weeks\` 1`] = `1`;
+
+exports[`durations \`weeks\` converts correctly into \`year\` 1`] = `0.019162332329592115`;
+
+exports[`durations \`weeks\` converts correctly into \`years\` 1`] = `0.019162332329592115`;
+
+exports[`durations \`weeks\` converts to an implicit quantity when simply bound 1`] = `604800000`;
+
+exports[`durations \`weeks\` has the correct multiplier 1`] = `604800`;
+
+exports[`durations \`year\` converts correctly into \`day\` 1`] = `365.3`;
+
+exports[`durations \`year\` converts correctly into \`days\` 1`] = `365.3`;
+
+exports[`durations \`year\` converts correctly into \`hour\` 1`] = `8767.2`;
+
+exports[`durations \`year\` converts correctly into \`hours\` 1`] = `8767.2`;
+
+exports[`durations \`year\` converts correctly into \`millisecond\` 1`] = `31561920000`;
+
+exports[`durations \`year\` converts correctly into \`milliseconds\` 1`] = `31561920000`;
+
+exports[`durations \`year\` converts correctly into \`minute\` 1`] = `526032`;
+
+exports[`durations \`year\` converts correctly into \`minutes\` 1`] = `526032`;
+
+exports[`durations \`year\` converts correctly into \`month\` 1`] = `12.009863013567013`;
+
+exports[`durations \`year\` converts correctly into \`months\` 1`] = `12.009863013567013`;
+
+exports[`durations \`year\` converts correctly into \`second\` 1`] = `31561920`;
+
+exports[`durations \`year\` converts correctly into \`seconds\` 1`] = `31561920`;
+
+exports[`durations \`year\` converts correctly into \`week\` 1`] = `52.18571428571428`;
+
+exports[`durations \`year\` converts correctly into \`weeks\` 1`] = `52.18571428571428`;
+
+exports[`durations \`year\` converts correctly into \`year\` 1`] = `1`;
+
+exports[`durations \`year\` converts correctly into \`years\` 1`] = `1`;
+
+exports[`durations \`year\` converts to an implicit quantity when simply bound 1`] = `31561920000`;
+
+exports[`durations \`year\` has the correct multiplier 1`] = `31561920`;
+
+exports[`durations \`years\` converts correctly into \`day\` 1`] = `365.3`;
+
+exports[`durations \`years\` converts correctly into \`days\` 1`] = `365.3`;
+
+exports[`durations \`years\` converts correctly into \`hour\` 1`] = `8767.2`;
+
+exports[`durations \`years\` converts correctly into \`hours\` 1`] = `8767.2`;
+
+exports[`durations \`years\` converts correctly into \`millisecond\` 1`] = `31561920000`;
+
+exports[`durations \`years\` converts correctly into \`milliseconds\` 1`] = `31561920000`;
+
+exports[`durations \`years\` converts correctly into \`minute\` 1`] = `526032`;
+
+exports[`durations \`years\` converts correctly into \`minutes\` 1`] = `526032`;
+
+exports[`durations \`years\` converts correctly into \`month\` 1`] = `12.009863013567013`;
+
+exports[`durations \`years\` converts correctly into \`months\` 1`] = `12.009863013567013`;
+
+exports[`durations \`years\` converts correctly into \`second\` 1`] = `31561920`;
+
+exports[`durations \`years\` converts correctly into \`seconds\` 1`] = `31561920`;
+
+exports[`durations \`years\` converts correctly into \`week\` 1`] = `52.18571428571428`;
+
+exports[`durations \`years\` converts correctly into \`weeks\` 1`] = `52.18571428571428`;
+
+exports[`durations \`years\` converts correctly into \`year\` 1`] = `1`;
+
+exports[`durations \`years\` converts correctly into \`years\` 1`] = `1`;
+
+exports[`durations \`years\` converts to an implicit quantity when simply bound 1`] = `31561920000`;
+
+exports[`durations \`years\` has the correct multiplier 1`] = `31561920`;
+
+exports[`durations are exported as expected 1`] = `
+Array [
+  "day",
+  "days",
+  "hour",
+  "hours",
+  "millisecond",
+  "milliseconds",
+  "minute",
+  "minutes",
+  "month",
+  "months",
+  "second",
+  "seconds",
+  "week",
+  "weeks",
+  "year",
+  "years",
+]
+`;

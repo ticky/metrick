@@ -1,0 +1,49 @@
+{
+  "name": "metrick",
+  "version": "0.1.0",
+  "description": "Babel-powered unit magick",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "babel src --out-dir . --source-maps inline --ignore \"**/*.spec.js\"",
+    "test": "jest",
+    "lint": "eslint src",
+    "lint-and-fixup": "eslint --fix src"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin-transform-function-bind",
+    "imperial",
+    "magic",
+    "magick",
+    "metric"
+  ],
+  "homepage": "https://github.com/ticky/metrick",
+  "bugs": {
+    "url": "https://github.com/ticky/metrick/issues"
+  },
+  "repository": "https://github.com/ticky/metrick.git",
+  "author": "Jessica Stokes <hello@jessicastokes.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-eslint": "^7.1.0",
+    "babel-plugin-transform-function-bind": "^6.8.0",
+    "babel-plugin-transform-object-rest-spread": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "eslint": "^3.10.2",
+    "flow-bin": "^0.35.0",
+    "jest": "^17.0.2"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ],
+    "plugins": [
+      "transform-function-bind",
+      "transform-object-rest-spread"
+    ]
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}

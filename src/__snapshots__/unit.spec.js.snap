@@ -1,0 +1,11 @@
+exports[`Unit in accepts a custom unit of the same type 1`] = `[Function]`;
+
+exports[`Unit in accepts another unit of the same type 1`] = `[Function]`;
+
+exports[`Unit in throws if given a non-matching unit type 1`] = `"Duration.in: Passed unit must be the same type! Passed unit was a \`Unit\`."`;
+
+exports[`Unit in throws if used on a type other than a number 1`] = `"Duration.in: Cannot be used on a non-number! We were given a \`object\`."`;
+
+exports[`Unit in throws if used on a type other than a number 2`] = `"Duration.in: Cannot be used on a non-number! We were given a \`string\`."`;
+
+exports[`Unit in throws if used on a type other than a number 3`] = `"Duration.in: Cannot be used on a non-number! We were given a \`function\`."`;
