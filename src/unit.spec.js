@@ -13,12 +13,12 @@ describe('Unit', () => {
     it('accepts a custom unit of the same type', () => {
       const myCustomDuration = new Duration(123);
       expect(() => 2::hours.in(myCustomDuration)).not.toThrow();
-      expect(() => 2::hours.in(myCustomDuration)).toMatchSnapshot();
+      expect(2::hours.in(myCustomDuration)).toMatchSnapshot();
     });
 
     it('accepts another unit of the same type', () => {
       expect(() => 2::hours.in(milliseconds)).not.toThrow();
-      expect(() => 2::hours.in(milliseconds)).toMatchSnapshot();
+      expect(2::hours.in(milliseconds)).toMatchSnapshot();
     });
 
     it('throws if used on a type other than a number', () => {

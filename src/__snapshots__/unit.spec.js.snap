@@ -1,6 +1,6 @@
-exports[`Unit in accepts a custom unit of the same type 1`] = `[Function]`;
+exports[`Unit in accepts a custom unit of the same type 1`] = `58.53658536585366`;
 
-exports[`Unit in accepts another unit of the same type 1`] = `[Function]`;
+exports[`Unit in accepts another unit of the same type 1`] = `7200000`;
 
 exports[`Unit in throws if given a non-matching unit type 1`] = `"Duration.in: Passed unit must be the same type! Passed unit was a \`Unit\`."`;
 
