@@ -1,9 +1,9 @@
 /* global describe, it, expect */
 import * as index from './index';
-const { Unit, ...modules } = index;
+const { ...modules } = index;
 
 // extract exposed constructors and units
-const { constructors: CONSTRUCTORS, units: UNIT_TYPES } = (() => {
+const { constructors: CONSTRUCTORS, units: UNIT_TYPES } = (() => { // eslint-disable-line no-unused-vars
   const constructors = [];
   const units = [];
 
@@ -22,9 +22,11 @@ const { constructors: CONSTRUCTORS, units: UNIT_TYPES } = (() => {
 })();
 
 describe('unit type constructors', () => {
-  CONSTRUCTORS.forEach((constructorName) => {
-    // TODO: describe(`\`${constructorName}\``, () => {});
-  });
+  // CONSTRUCTORS.forEach((constructorName) => {
+  //   describe(`\`${constructorName}\``, () => {
+  //
+  //   });
+  // });
 });
 
 UNIT_TYPES.forEach((unitTypeName) => {
