@@ -9,3 +9,5 @@ exports[`Unit in throws if used on a type other than a number 1`] = `"Duration.i
 exports[`Unit in throws if used on a type other than a number 2`] = `"Duration.in: Cannot be used on a non-number! We were given a \`string\`."`;
 
 exports[`Unit in throws if used on a type other than a number 3`] = `"Duration.in: Cannot be used on a non-number! We were given a \`function\`."`;
+
+exports[`Unit throws if overriding an unsupported method 1`] = `"Unit: Overriding \`bind\` is not supported!"`;
