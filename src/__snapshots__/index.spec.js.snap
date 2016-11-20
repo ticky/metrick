@@ -27996,6 +27996,5887 @@ Array [
 ]
 `;
 
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -14959787070000,
+  "0": 0,
+  "1": 14959787070000,
+  "10": 149597870700000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -14959787070000,
+  "0": 0,
+  "1": 14959787070000,
+  "10": 149597870700000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -7436464581.842042,
+  "0": 0,
+  "1": 7436464581.842042,
+  "10": 74364645818.42043,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -7436464581.842042,
+  "0": 0,
+  "1": 7436464581.842042,
+  "10": 74364645818.42043,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -490806662401.57477,
+  "0": 0,
+  "1": 490806662401.57477,
+  "10": 4908066624015.748,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -490806662401.57477,
+  "0": 0,
+  "1": 490806662401.57477,
+  "10": 4908066624015.748,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -5889679948818.897,
+  "0": 0,
+  "1": 5889679948818.897,
+  "10": 58896799488188.97,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -5889679948818.897,
+  "0": 0,
+  "1": 5889679948818.897,
+  "10": 58896799488188.97,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -149597870.7,
+  "0": 0,
+  "1": 149597870.7,
+  "10": 1495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -149597870.7,
+  "0": 0,
+  "1": 149597870.7,
+  "10": 1495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -92955807.27302553,
+  "0": 0,
+  "1": 92955807.27302553,
+  "10": 929558072.7302552,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -92955807.27302553,
+  "0": 0,
+  "1": 92955807.27302553,
+  "10": 929558072.7302552,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -149597870700000,
+  "0": 0,
+  "1": 149597870700000,
+  "10": 1495978707000000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -149597870700000,
+  "0": 0,
+  "1": 149597870700000,
+  "10": 1495978707000000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -196322664960.6299,
+  "0": 0,
+  "1": 196322664960.6299,
+  "10": 1963226649606.299,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -196322664960.6299,
+  "0": 0,
+  "1": 196322664960.6299,
+  "10": 1963226649606.299,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -0.1495978707,
+  "0": 0,
+  "1": 0.1495978707,
+  "10": 1.495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -0.1495978707,
+  "0": 0,
+  "1": 0.1495978707,
+  "10": 1.495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -8481139126299211,
+  "0": 0,
+  "1": 8481139126299211,
+  "10": 84811391262992110,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -8481139126299211,
+  "0": 0,
+  "1": 8481139126299211,
+  "10": 84811391262992110,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -163602220800.5249,
+  "0": 0,
+  "1": 163602220800.5249,
+  "10": 1636022208005.2493,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -163602220800.5249,
+  "0": 0,
+  "1": 163602220800.5249,
+  "10": 1636022208005.2493,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnit\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -14959787070000,
+  "0": 0,
+  "1": 14959787070000,
+  "10": 149597870700000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -14959787070000,
+  "0": 0,
+  "1": 14959787070000,
+  "10": 149597870700000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -7436464581.842042,
+  "0": 0,
+  "1": 7436464581.842042,
+  "10": 74364645818.42043,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -7436464581.842042,
+  "0": 0,
+  "1": 7436464581.842042,
+  "10": 74364645818.42043,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -490806662401.57477,
+  "0": 0,
+  "1": 490806662401.57477,
+  "10": 4908066624015.748,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -490806662401.57477,
+  "0": 0,
+  "1": 490806662401.57477,
+  "10": 4908066624015.748,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -5889679948818.897,
+  "0": 0,
+  "1": 5889679948818.897,
+  "10": 58896799488188.97,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -5889679948818.897,
+  "0": 0,
+  "1": 5889679948818.897,
+  "10": 58896799488188.97,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -149597870.7,
+  "0": 0,
+  "1": 149597870.7,
+  "10": 1495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -149597870.7,
+  "0": 0,
+  "1": 149597870.7,
+  "10": 1495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -92955807.27302553,
+  "0": 0,
+  "1": 92955807.27302553,
+  "10": 929558072.7302552,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -92955807.27302553,
+  "0": 0,
+  "1": 92955807.27302553,
+  "10": 929558072.7302552,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -149597870700000,
+  "0": 0,
+  "1": 149597870700000,
+  "10": 1495978707000000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -149597870700000,
+  "0": 0,
+  "1": 149597870700000,
+  "10": 1495978707000000,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -196322664960.6299,
+  "0": 0,
+  "1": 196322664960.6299,
+  "10": 1963226649606.299,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -196322664960.6299,
+  "0": 0,
+  "1": 196322664960.6299,
+  "10": 1963226649606.299,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -0.1495978707,
+  "0": 0,
+  "1": 0.1495978707,
+  "10": 1.495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -0.1495978707,
+  "0": 0,
+  "1": 0.1495978707,
+  "10": 1.495978707,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -8481139126299211,
+  "0": 0,
+  "1": 8481139126299211,
+  "10": 84811391262992110,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -8481139126299211,
+  "0": 0,
+  "1": 8481139126299211,
+  "10": 84811391262992110,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -163602220800.5249,
+  "0": 0,
+  "1": 163602220800.5249,
+  "10": 1636022208005.2493,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -163602220800.5249,
+  "0": 0,
+  "1": 163602220800.5249,
+  "10": 1636022208005.2493,
+}
+`;
+
+exports[`\`length\` type units \`astronomicalUnits\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -149597870700,
+  "0": 0,
+  "1": 149597870700,
+  "10": 1495978707000,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-14,
+  "0": 0,
+  "1": 6.684587122268446e-14,
+  "10": 6.684587122268446e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-14,
+  "0": 0,
+  "1": 6.684587122268446e-14,
+  "10": 6.684587122268446e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.0004970969537898671,
+  "0": 0,
+  "1": 0.0004970969537898671,
+  "10": 0.004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.0004970969537898671,
+  "0": 0,
+  "1": 0.0004970969537898671,
+  "10": 0.004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.03280839895013123,
+  "0": 0,
+  "1": 0.03280839895013123,
+  "10": 0.32808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.03280839895013123,
+  "0": 0,
+  "1": 0.03280839895013123,
+  "10": 0.32808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.39370078740157477,
+  "0": 0,
+  "1": 0.39370078740157477,
+  "10": 3.9370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.39370078740157477,
+  "0": 0,
+  "1": 0.39370078740157477,
+  "10": 3.9370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.00001,
+  "0": 0,
+  "1": 0.00001,
+  "10": 0.0001,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.00001,
+  "0": 0,
+  "1": 0.00001,
+  "10": 0.0001,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.000006213711922373339,
+  "0": 0,
+  "1": 0.000006213711922373339,
+  "10": 0.0000621371192237334,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.000006213711922373339,
+  "0": 0,
+  "1": 0.000006213711922373339,
+  "10": 0.0000621371192237334,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -10,
+  "0": 0,
+  "1": 10,
+  "10": 100,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -10,
+  "0": 0,
+  "1": 10,
+  "10": 100,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.013123359580052493,
+  "0": 0,
+  "1": 0.013123359580052493,
+  "10": 0.13123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.013123359580052493,
+  "0": 0,
+  "1": 0.013123359580052493,
+  "10": 0.13123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-14,
+  "0": 0,
+  "1": 1e-14,
+  "10": 1e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-14,
+  "0": 0,
+  "1": 1e-14,
+  "10": 1e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -566.9291338582676,
+  "0": 0,
+  "1": 566.9291338582676,
+  "10": 5669.291338582676,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -566.9291338582676,
+  "0": 0,
+  "1": 566.9291338582676,
+  "10": 5669.291338582676,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.010936132983377077,
+  "0": 0,
+  "1": 0.010936132983377077,
+  "10": 0.10936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.010936132983377077,
+  "0": 0,
+  "1": 0.010936132983377077,
+  "10": 0.10936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`centimetre\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-14,
+  "0": 0,
+  "1": 6.684587122268446e-14,
+  "10": 6.684587122268446e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-14,
+  "0": 0,
+  "1": 6.684587122268446e-14,
+  "10": 6.684587122268446e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.0004970969537898671,
+  "0": 0,
+  "1": 0.0004970969537898671,
+  "10": 0.004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.0004970969537898671,
+  "0": 0,
+  "1": 0.0004970969537898671,
+  "10": 0.004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.03280839895013123,
+  "0": 0,
+  "1": 0.03280839895013123,
+  "10": 0.32808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.03280839895013123,
+  "0": 0,
+  "1": 0.03280839895013123,
+  "10": 0.32808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.39370078740157477,
+  "0": 0,
+  "1": 0.39370078740157477,
+  "10": 3.9370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.39370078740157477,
+  "0": 0,
+  "1": 0.39370078740157477,
+  "10": 3.9370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.00001,
+  "0": 0,
+  "1": 0.00001,
+  "10": 0.0001,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.00001,
+  "0": 0,
+  "1": 0.00001,
+  "10": 0.0001,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.000006213711922373339,
+  "0": 0,
+  "1": 0.000006213711922373339,
+  "10": 0.0000621371192237334,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.000006213711922373339,
+  "0": 0,
+  "1": 0.000006213711922373339,
+  "10": 0.0000621371192237334,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -10,
+  "0": 0,
+  "1": 10,
+  "10": 100,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -10,
+  "0": 0,
+  "1": 10,
+  "10": 100,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.013123359580052493,
+  "0": 0,
+  "1": 0.013123359580052493,
+  "10": 0.13123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.013123359580052493,
+  "0": 0,
+  "1": 0.013123359580052493,
+  "10": 0.13123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-14,
+  "0": 0,
+  "1": 1e-14,
+  "10": 1e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-14,
+  "0": 0,
+  "1": 1e-14,
+  "10": 1e-13,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -566.9291338582676,
+  "0": 0,
+  "1": 566.9291338582676,
+  "10": 5669.291338582676,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -566.9291338582676,
+  "0": 0,
+  "1": 566.9291338582676,
+  "10": 5669.291338582676,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.010936132983377077,
+  "0": 0,
+  "1": 0.010936132983377077,
+  "10": 0.10936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.010936132983377077,
+  "0": 0,
+  "1": 0.010936132983377077,
+  "10": 0.10936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`centimetres\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.01,
+  "0": 0,
+  "1": 0.01,
+  "10": 0.1,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.3447250222124986e-10,
+  "0": 0,
+  "1": 1.3447250222124986e-10,
+  "10": 1.3447250222124988e-9,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.3447250222124986e-10,
+  "0": 0,
+  "1": 1.3447250222124986e-10,
+  "10": 1.3447250222124988e-9,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -2011.68,
+  "0": 0,
+  "1": 2011.68,
+  "10": 20116.8,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -2011.68,
+  "0": 0,
+  "1": 2011.68,
+  "10": 20116.8,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -66,
+  "0": 0,
+  "1": 66,
+  "10": 660,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -66,
+  "0": 0,
+  "1": 66,
+  "10": 660,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -792,
+  "0": 0,
+  "1": 792,
+  "10": 7919.999999999999,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -792,
+  "0": 0,
+  "1": 792,
+  "10": 7919.999999999999,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0201168,
+  "0": 0,
+  "1": 0.0201168,
+  "10": 0.201168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0201168,
+  "0": 0,
+  "1": 0.0201168,
+  "10": 0.201168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0125,
+  "0": 0,
+  "1": 0.0125,
+  "10": 0.125,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0125,
+  "0": 0,
+  "1": 0.0125,
+  "10": 0.125,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -20116.8,
+  "0": 0,
+  "1": 20116.8,
+  "10": 201168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -20116.8,
+  "0": 0,
+  "1": 20116.8,
+  "10": 201168,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -26.400000000000002,
+  "0": 0,
+  "1": 26.400000000000002,
+  "10": 264,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -26.400000000000002,
+  "0": 0,
+  "1": 26.400000000000002,
+  "10": 264,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -2.0116800000000002e-11,
+  "0": 0,
+  "1": 2.0116800000000002e-11,
+  "10": 2.01168e-10,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -2.0116800000000002e-11,
+  "0": 0,
+  "1": 2.0116800000000002e-11,
+  "10": 2.01168e-10,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -1140479.9999999998,
+  "0": 0,
+  "1": 1140479.9999999998,
+  "10": 11404799.999999998,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -1140479.9999999998,
+  "0": 0,
+  "1": 1140479.9999999998,
+  "10": 11404799.999999998,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -22,
+  "0": 0,
+  "1": 22,
+  "10": 219.99999999999997,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -22,
+  "0": 0,
+  "1": 22,
+  "10": 219.99999999999997,
+}
+`;
+
+exports[`\`length\` type units \`chain\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.3447250222124986e-10,
+  "0": 0,
+  "1": 1.3447250222124986e-10,
+  "10": 1.3447250222124988e-9,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.3447250222124986e-10,
+  "0": 0,
+  "1": 1.3447250222124986e-10,
+  "10": 1.3447250222124988e-9,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -2011.68,
+  "0": 0,
+  "1": 2011.68,
+  "10": 20116.8,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -2011.68,
+  "0": 0,
+  "1": 2011.68,
+  "10": 20116.8,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -66,
+  "0": 0,
+  "1": 66,
+  "10": 660,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -66,
+  "0": 0,
+  "1": 66,
+  "10": 660,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -792,
+  "0": 0,
+  "1": 792,
+  "10": 7919.999999999999,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -792,
+  "0": 0,
+  "1": 792,
+  "10": 7919.999999999999,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0201168,
+  "0": 0,
+  "1": 0.0201168,
+  "10": 0.201168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0201168,
+  "0": 0,
+  "1": 0.0201168,
+  "10": 0.201168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0125,
+  "0": 0,
+  "1": 0.0125,
+  "10": 0.125,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0125,
+  "0": 0,
+  "1": 0.0125,
+  "10": 0.125,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -20116.8,
+  "0": 0,
+  "1": 20116.8,
+  "10": 201168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -20116.8,
+  "0": 0,
+  "1": 20116.8,
+  "10": 201168,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -26.400000000000002,
+  "0": 0,
+  "1": 26.400000000000002,
+  "10": 264,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -26.400000000000002,
+  "0": 0,
+  "1": 26.400000000000002,
+  "10": 264,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -2.0116800000000002e-11,
+  "0": 0,
+  "1": 2.0116800000000002e-11,
+  "10": 2.01168e-10,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -2.0116800000000002e-11,
+  "0": 0,
+  "1": 2.0116800000000002e-11,
+  "10": 2.01168e-10,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -1140479.9999999998,
+  "0": 0,
+  "1": 1140479.9999999998,
+  "10": 11404799.999999998,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -1140479.9999999998,
+  "0": 0,
+  "1": 1140479.9999999998,
+  "10": 11404799.999999998,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -22,
+  "0": 0,
+  "1": 22,
+  "10": 219.99999999999997,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -22,
+  "0": 0,
+  "1": 22,
+  "10": 219.99999999999997,
+}
+`;
+
+exports[`\`length\` type units \`chains\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -20.1168,
+  "0": 0,
+  "1": 20.1168,
+  "10": 201.168,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -2.0374621548674225e-12,
+  "0": 0,
+  "1": 2.0374621548674225e-12,
+  "10": 2.0374621548674224e-11,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -2.0374621548674225e-12,
+  "0": 0,
+  "1": 2.0374621548674225e-12,
+  "10": 2.0374621548674224e-11,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -30.48,
+  "0": 0,
+  "1": 30.48,
+  "10": 304.8,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -30.48,
+  "0": 0,
+  "1": 30.48,
+  "10": 304.8,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.015151515151515152,
+  "0": 0,
+  "1": 0.015151515151515152,
+  "10": 0.15151515151515152,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.015151515151515152,
+  "0": 0,
+  "1": 0.015151515151515152,
+  "10": 0.15151515151515152,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -12,
+  "0": 0,
+  "1": 12,
+  "10": 119.99999999999999,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -12,
+  "0": 0,
+  "1": 12,
+  "10": 119.99999999999999,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.00030480000000000004,
+  "0": 0,
+  "1": 0.00030480000000000004,
+  "10": 0.003048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.00030480000000000004,
+  "0": 0,
+  "1": 0.00030480000000000004,
+  "10": 0.003048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0001893939393939394,
+  "0": 0,
+  "1": 0.0001893939393939394,
+  "10": 0.001893939393939394,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0001893939393939394,
+  "0": 0,
+  "1": 0.0001893939393939394,
+  "10": 0.001893939393939394,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -304.8,
+  "0": 0,
+  "1": 304.8,
+  "10": 3048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -304.8,
+  "0": 0,
+  "1": 304.8,
+  "10": 3048,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.4,
+  "0": 0,
+  "1": 0.4,
+  "10": 4,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.4,
+  "0": 0,
+  "1": 0.4,
+  "10": 4,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -3.048e-13,
+  "0": 0,
+  "1": 3.048e-13,
+  "10": 3.048e-12,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -3.048e-13,
+  "0": 0,
+  "1": 3.048e-13,
+  "10": 3.048e-12,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -17279.999999999996,
+  "0": 0,
+  "1": 17279.999999999996,
+  "10": 172799.99999999997,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -17279.999999999996,
+  "0": 0,
+  "1": 17279.999999999996,
+  "10": 172799.99999999997,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.3333333333333333,
+  "0": 0,
+  "1": 0.3333333333333333,
+  "10": 3.333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.3333333333333333,
+  "0": 0,
+  "1": 0.3333333333333333,
+  "10": 3.333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`feet\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -2.0374621548674225e-12,
+  "0": 0,
+  "1": 2.0374621548674225e-12,
+  "10": 2.0374621548674224e-11,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -2.0374621548674225e-12,
+  "0": 0,
+  "1": 2.0374621548674225e-12,
+  "10": 2.0374621548674224e-11,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -30.48,
+  "0": 0,
+  "1": 30.48,
+  "10": 304.8,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -30.48,
+  "0": 0,
+  "1": 30.48,
+  "10": 304.8,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.015151515151515152,
+  "0": 0,
+  "1": 0.015151515151515152,
+  "10": 0.15151515151515152,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.015151515151515152,
+  "0": 0,
+  "1": 0.015151515151515152,
+  "10": 0.15151515151515152,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -12,
+  "0": 0,
+  "1": 12,
+  "10": 119.99999999999999,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -12,
+  "0": 0,
+  "1": 12,
+  "10": 119.99999999999999,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.00030480000000000004,
+  "0": 0,
+  "1": 0.00030480000000000004,
+  "10": 0.003048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.00030480000000000004,
+  "0": 0,
+  "1": 0.00030480000000000004,
+  "10": 0.003048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0001893939393939394,
+  "0": 0,
+  "1": 0.0001893939393939394,
+  "10": 0.001893939393939394,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0001893939393939394,
+  "0": 0,
+  "1": 0.0001893939393939394,
+  "10": 0.001893939393939394,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -304.8,
+  "0": 0,
+  "1": 304.8,
+  "10": 3048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -304.8,
+  "0": 0,
+  "1": 304.8,
+  "10": 3048,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.4,
+  "0": 0,
+  "1": 0.4,
+  "10": 4,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.4,
+  "0": 0,
+  "1": 0.4,
+  "10": 4,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -3.048e-13,
+  "0": 0,
+  "1": 3.048e-13,
+  "10": 3.048e-12,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -3.048e-13,
+  "0": 0,
+  "1": 3.048e-13,
+  "10": 3.048e-12,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -17279.999999999996,
+  "0": 0,
+  "1": 17279.999999999996,
+  "10": 172799.99999999997,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -17279.999999999996,
+  "0": 0,
+  "1": 17279.999999999996,
+  "10": 172799.99999999997,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.3333333333333333,
+  "0": 0,
+  "1": 0.3333333333333333,
+  "10": 3.333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.3333333333333333,
+  "0": 0,
+  "1": 0.3333333333333333,
+  "10": 3.333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`foot\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.3048,
+  "0": 0,
+  "1": 0.3048,
+  "10": 3.048,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.6978851290561852e-13,
+  "0": 0,
+  "1": 1.6978851290561852e-13,
+  "10": 1.6978851290561851e-12,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.6978851290561852e-13,
+  "0": 0,
+  "1": 1.6978851290561852e-13,
+  "10": 1.6978851290561851e-12,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -2.54,
+  "0": 0,
+  "1": 2.54,
+  "10": 25.4,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -2.54,
+  "0": 0,
+  "1": 2.54,
+  "10": 25.4,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.0012626262626262627,
+  "0": 0,
+  "1": 0.0012626262626262627,
+  "10": 0.012626262626262626,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.0012626262626262627,
+  "0": 0,
+  "1": 0.0012626262626262627,
+  "10": 0.012626262626262626,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.08333333333333334,
+  "0": 0,
+  "1": 0.08333333333333334,
+  "10": 0.8333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.08333333333333334,
+  "0": 0,
+  "1": 0.08333333333333334,
+  "10": 0.8333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0000254,
+  "0": 0,
+  "1": 0.0000254,
+  "10": 0.000254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0000254,
+  "0": 0,
+  "1": 0.0000254,
+  "10": 0.000254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.000015782828282828283,
+  "0": 0,
+  "1": 0.000015782828282828283,
+  "10": 0.00015782828282828281,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.000015782828282828283,
+  "0": 0,
+  "1": 0.000015782828282828283,
+  "10": 0.00015782828282828281,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -25.400000000000002,
+  "0": 0,
+  "1": 25.400000000000002,
+  "10": 254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -25.400000000000002,
+  "0": 0,
+  "1": 25.400000000000002,
+  "10": 254,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.03333333333333333,
+  "0": 0,
+  "1": 0.03333333333333333,
+  "10": 0.3333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.03333333333333333,
+  "0": 0,
+  "1": 0.03333333333333333,
+  "10": 0.3333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -2.54e-14,
+  "0": 0,
+  "1": 2.54e-14,
+  "10": 2.5400000000000003e-13,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -2.54e-14,
+  "0": 0,
+  "1": 2.54e-14,
+  "10": 2.5400000000000003e-13,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -1439.9999999999998,
+  "0": 0,
+  "1": 1439.9999999999998,
+  "10": 14399.999999999996,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -1439.9999999999998,
+  "0": 0,
+  "1": 1439.9999999999998,
+  "10": 14399.999999999996,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.027777777777777776,
+  "0": 0,
+  "1": 0.027777777777777776,
+  "10": 0.27777777777777773,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.027777777777777776,
+  "0": 0,
+  "1": 0.027777777777777776,
+  "10": 0.27777777777777773,
+}
+`;
+
+exports[`\`length\` type units \`inch\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.6978851290561852e-13,
+  "0": 0,
+  "1": 1.6978851290561852e-13,
+  "10": 1.6978851290561851e-12,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.6978851290561852e-13,
+  "0": 0,
+  "1": 1.6978851290561852e-13,
+  "10": 1.6978851290561851e-12,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -2.54,
+  "0": 0,
+  "1": 2.54,
+  "10": 25.4,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -2.54,
+  "0": 0,
+  "1": 2.54,
+  "10": 25.4,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.0012626262626262627,
+  "0": 0,
+  "1": 0.0012626262626262627,
+  "10": 0.012626262626262626,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.0012626262626262627,
+  "0": 0,
+  "1": 0.0012626262626262627,
+  "10": 0.012626262626262626,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.08333333333333334,
+  "0": 0,
+  "1": 0.08333333333333334,
+  "10": 0.8333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.08333333333333334,
+  "0": 0,
+  "1": 0.08333333333333334,
+  "10": 0.8333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0000254,
+  "0": 0,
+  "1": 0.0000254,
+  "10": 0.000254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0000254,
+  "0": 0,
+  "1": 0.0000254,
+  "10": 0.000254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.000015782828282828283,
+  "0": 0,
+  "1": 0.000015782828282828283,
+  "10": 0.00015782828282828281,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.000015782828282828283,
+  "0": 0,
+  "1": 0.000015782828282828283,
+  "10": 0.00015782828282828281,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -25.400000000000002,
+  "0": 0,
+  "1": 25.400000000000002,
+  "10": 254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -25.400000000000002,
+  "0": 0,
+  "1": 25.400000000000002,
+  "10": 254,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.03333333333333333,
+  "0": 0,
+  "1": 0.03333333333333333,
+  "10": 0.3333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.03333333333333333,
+  "0": 0,
+  "1": 0.03333333333333333,
+  "10": 0.3333333333333333,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -2.54e-14,
+  "0": 0,
+  "1": 2.54e-14,
+  "10": 2.5400000000000003e-13,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -2.54e-14,
+  "0": 0,
+  "1": 2.54e-14,
+  "10": 2.5400000000000003e-13,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -1439.9999999999998,
+  "0": 0,
+  "1": 1439.9999999999998,
+  "10": 14399.999999999996,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -1439.9999999999998,
+  "0": 0,
+  "1": 1439.9999999999998,
+  "10": 14399.999999999996,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.027777777777777776,
+  "0": 0,
+  "1": 0.027777777777777776,
+  "10": 0.27777777777777773,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.027777777777777776,
+  "0": 0,
+  "1": 0.027777777777777776,
+  "10": 0.27777777777777773,
+}
+`;
+
+exports[`\`length\` type units \`inches\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.025400000000000002,
+  "0": 0,
+  "1": 0.025400000000000002,
+  "10": 0.254,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-9,
+  "0": 0,
+  "1": 6.684587122268446e-9,
+  "10": 6.684587122268446e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-9,
+  "0": 0,
+  "1": 6.684587122268446e-9,
+  "10": 6.684587122268446e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100000,
+  "0": 0,
+  "1": 100000,
+  "10": 1000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100000,
+  "0": 0,
+  "1": 100000,
+  "10": 1000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -49.709695378986716,
+  "0": 0,
+  "1": 49.709695378986716,
+  "10": 497.09695378986714,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -49.709695378986716,
+  "0": 0,
+  "1": 49.709695378986716,
+  "10": 497.09695378986714,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3280.839895013123,
+  "0": 0,
+  "1": 3280.839895013123,
+  "10": 32808.39895013123,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3280.839895013123,
+  "0": 0,
+  "1": 3280.839895013123,
+  "10": 32808.39895013123,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39370.07874015748,
+  "0": 0,
+  "1": 39370.07874015748,
+  "10": 393700.7874015748,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39370.07874015748,
+  "0": 0,
+  "1": 39370.07874015748,
+  "10": 393700.7874015748,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.621371192237334,
+  "0": 0,
+  "1": 0.621371192237334,
+  "10": 6.2137119223733395,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.621371192237334,
+  "0": 0,
+  "1": 0.621371192237334,
+  "10": 6.2137119223733395,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000000,
+  "0": 0,
+  "1": 1000000,
+  "10": 10000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000000,
+  "0": 0,
+  "1": 1000000,
+  "10": 10000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1312.3359580052493,
+  "0": 0,
+  "1": 1312.3359580052493,
+  "10": 13123.359580052493,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1312.3359580052493,
+  "0": 0,
+  "1": 1312.3359580052493,
+  "10": 13123.359580052493,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-9,
+  "0": 0,
+  "1": 1e-9,
+  "10": 1e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-9,
+  "0": 0,
+  "1": 1e-9,
+  "10": 1e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692913.38582676,
+  "0": 0,
+  "1": 56692913.38582676,
+  "10": 566929133.8582675,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692913.38582676,
+  "0": 0,
+  "1": 56692913.38582676,
+  "10": 566929133.8582675,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1093.6132983377076,
+  "0": 0,
+  "1": 1093.6132983377076,
+  "10": 10936.132983377076,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1093.6132983377076,
+  "0": 0,
+  "1": 1093.6132983377076,
+  "10": 10936.132983377076,
+}
+`;
+
+exports[`\`length\` type units \`kilometre\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-9,
+  "0": 0,
+  "1": 6.684587122268446e-9,
+  "10": 6.684587122268446e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-9,
+  "0": 0,
+  "1": 6.684587122268446e-9,
+  "10": 6.684587122268446e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100000,
+  "0": 0,
+  "1": 100000,
+  "10": 1000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100000,
+  "0": 0,
+  "1": 100000,
+  "10": 1000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -49.709695378986716,
+  "0": 0,
+  "1": 49.709695378986716,
+  "10": 497.09695378986714,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -49.709695378986716,
+  "0": 0,
+  "1": 49.709695378986716,
+  "10": 497.09695378986714,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3280.839895013123,
+  "0": 0,
+  "1": 3280.839895013123,
+  "10": 32808.39895013123,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3280.839895013123,
+  "0": 0,
+  "1": 3280.839895013123,
+  "10": 32808.39895013123,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39370.07874015748,
+  "0": 0,
+  "1": 39370.07874015748,
+  "10": 393700.7874015748,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39370.07874015748,
+  "0": 0,
+  "1": 39370.07874015748,
+  "10": 393700.7874015748,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.621371192237334,
+  "0": 0,
+  "1": 0.621371192237334,
+  "10": 6.2137119223733395,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.621371192237334,
+  "0": 0,
+  "1": 0.621371192237334,
+  "10": 6.2137119223733395,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000000,
+  "0": 0,
+  "1": 1000000,
+  "10": 10000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000000,
+  "0": 0,
+  "1": 1000000,
+  "10": 10000000,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1312.3359580052493,
+  "0": 0,
+  "1": 1312.3359580052493,
+  "10": 13123.359580052493,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1312.3359580052493,
+  "0": 0,
+  "1": 1312.3359580052493,
+  "10": 13123.359580052493,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-9,
+  "0": 0,
+  "1": 1e-9,
+  "10": 1e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-9,
+  "0": 0,
+  "1": 1e-9,
+  "10": 1e-8,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692913.38582676,
+  "0": 0,
+  "1": 56692913.38582676,
+  "10": 566929133.8582675,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692913.38582676,
+  "0": 0,
+  "1": 56692913.38582676,
+  "10": 566929133.8582675,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1093.6132983377076,
+  "0": 0,
+  "1": 1093.6132983377076,
+  "10": 10936.132983377076,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1093.6132983377076,
+  "0": 0,
+  "1": 1093.6132983377076,
+  "10": 10936.132983377076,
+}
+`;
+
+exports[`\`length\` type units \`kilometres\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268445e-12,
+  "0": 0,
+  "1": 6.684587122268445e-12,
+  "10": 6.684587122268446e-11,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268445e-12,
+  "0": 0,
+  "1": 6.684587122268445e-12,
+  "10": 6.684587122268446e-11,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100,
+  "0": 0,
+  "1": 100,
+  "10": 1000,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100,
+  "0": 0,
+  "1": 100,
+  "10": 1000,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.049709695378986715,
+  "0": 0,
+  "1": 0.049709695378986715,
+  "10": 0.4970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.049709695378986715,
+  "0": 0,
+  "1": 0.049709695378986715,
+  "10": 0.4970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3.280839895013123,
+  "0": 0,
+  "1": 3.280839895013123,
+  "10": 32.808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3.280839895013123,
+  "0": 0,
+  "1": 3.280839895013123,
+  "10": 32.808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39.370078740157474,
+  "0": 0,
+  "1": 39.370078740157474,
+  "10": 393.70078740157476,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39.370078740157474,
+  "0": 0,
+  "1": 39.370078740157474,
+  "10": 393.70078740157476,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0006213711922373339,
+  "0": 0,
+  "1": 0.0006213711922373339,
+  "10": 0.006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0006213711922373339,
+  "0": 0,
+  "1": 0.0006213711922373339,
+  "10": 0.006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1.3123359580052494,
+  "0": 0,
+  "1": 1.3123359580052494,
+  "10": 13.123359580052494,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1.3123359580052494,
+  "0": 0,
+  "1": 1.3123359580052494,
+  "10": 13.123359580052494,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-12,
+  "0": 0,
+  "1": 1e-12,
+  "10": 1e-11,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-12,
+  "0": 0,
+  "1": 1e-12,
+  "10": 1e-11,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692.91338582676,
+  "0": 0,
+  "1": 56692.91338582676,
+  "10": 566929.1338582676,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692.91338582676,
+  "0": 0,
+  "1": 56692.91338582676,
+  "10": 566929.1338582676,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1.0936132983377076,
+  "0": 0,
+  "1": 1.0936132983377076,
+  "10": 10.936132983377076,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1.0936132983377076,
+  "0": 0,
+  "1": 1.0936132983377076,
+  "10": 10.936132983377076,
+}
+`;
+
+exports[`\`length\` type units \`metre\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1,
+  "0": 0,
+  "1": 1,
+  "10": 10,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268445e-12,
+  "0": 0,
+  "1": 6.684587122268445e-12,
+  "10": 6.684587122268446e-11,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268445e-12,
+  "0": 0,
+  "1": 6.684587122268445e-12,
+  "10": 6.684587122268446e-11,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100,
+  "0": 0,
+  "1": 100,
+  "10": 1000,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100,
+  "0": 0,
+  "1": 100,
+  "10": 1000,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.049709695378986715,
+  "0": 0,
+  "1": 0.049709695378986715,
+  "10": 0.4970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.049709695378986715,
+  "0": 0,
+  "1": 0.049709695378986715,
+  "10": 0.4970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3.280839895013123,
+  "0": 0,
+  "1": 3.280839895013123,
+  "10": 32.808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3.280839895013123,
+  "0": 0,
+  "1": 3.280839895013123,
+  "10": 32.808398950131235,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39.370078740157474,
+  "0": 0,
+  "1": 39.370078740157474,
+  "10": 393.70078740157476,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39.370078740157474,
+  "0": 0,
+  "1": 39.370078740157474,
+  "10": 393.70078740157476,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0006213711922373339,
+  "0": 0,
+  "1": 0.0006213711922373339,
+  "10": 0.006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0006213711922373339,
+  "0": 0,
+  "1": 0.0006213711922373339,
+  "10": 0.006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000,
+  "0": 0,
+  "1": 1000,
+  "10": 10000,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1.3123359580052494,
+  "0": 0,
+  "1": 1.3123359580052494,
+  "10": 13.123359580052494,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1.3123359580052494,
+  "0": 0,
+  "1": 1.3123359580052494,
+  "10": 13.123359580052494,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-12,
+  "0": 0,
+  "1": 1e-12,
+  "10": 1e-11,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-12,
+  "0": 0,
+  "1": 1e-12,
+  "10": 1e-11,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692.91338582676,
+  "0": 0,
+  "1": 56692.91338582676,
+  "10": 566929.1338582676,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692.91338582676,
+  "0": 0,
+  "1": 56692.91338582676,
+  "10": 566929.1338582676,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1.0936132983377076,
+  "0": 0,
+  "1": 1.0936132983377076,
+  "10": 10.936132983377076,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1.0936132983377076,
+  "0": 0,
+  "1": 1.0936132983377076,
+  "10": 10.936132983377076,
+}
+`;
+
+exports[`\`length\` type units \`metres\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1,
+  "0": 0,
+  "1": 1,
+  "10": 10,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.075780017769999e-8,
+  "0": 0,
+  "1": 1.075780017769999e-8,
+  "10": 1.075780017769999e-7,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.075780017769999e-8,
+  "0": 0,
+  "1": 1.075780017769999e-8,
+  "10": 1.075780017769999e-7,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -160934.4,
+  "0": 0,
+  "1": 160934.4,
+  "10": 1609344,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -160934.4,
+  "0": 0,
+  "1": 160934.4,
+  "10": 1609344,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -80,
+  "0": 0,
+  "1": 80,
+  "10": 800,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -80,
+  "0": 0,
+  "1": 80,
+  "10": 800,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -5280,
+  "0": 0,
+  "1": 5280,
+  "10": 52800,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -5280,
+  "0": 0,
+  "1": 5280,
+  "10": 52800,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -63359.99999999999,
+  "0": 0,
+  "1": 63359.99999999999,
+  "10": 633600,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -63359.99999999999,
+  "0": 0,
+  "1": 63359.99999999999,
+  "10": 633600,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1.609344,
+  "0": 0,
+  "1": 1.609344,
+  "10": 16.09344,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1.609344,
+  "0": 0,
+  "1": 1.609344,
+  "10": 16.09344,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1609344,
+  "0": 0,
+  "1": 1609344,
+  "10": 16093440,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1609344,
+  "0": 0,
+  "1": 1609344,
+  "10": 16093440,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -2112,
+  "0": 0,
+  "1": 2112,
+  "10": 21120,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -2112,
+  "0": 0,
+  "1": 2112,
+  "10": 21120,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1.609344e-9,
+  "0": 0,
+  "1": 1.609344e-9,
+  "10": 1.6093440000000002e-8,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1.609344e-9,
+  "0": 0,
+  "1": 1.609344e-9,
+  "10": 1.6093440000000002e-8,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -91238399.99999999,
+  "0": 0,
+  "1": 91238399.99999999,
+  "10": 912383999.9999999,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -91238399.99999999,
+  "0": 0,
+  "1": 91238399.99999999,
+  "10": 912383999.9999999,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1759.9999999999998,
+  "0": 0,
+  "1": 1759.9999999999998,
+  "10": 17600,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1759.9999999999998,
+  "0": 0,
+  "1": 1759.9999999999998,
+  "10": 17600,
+}
+`;
+
+exports[`\`length\` type units \`mile\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.075780017769999e-8,
+  "0": 0,
+  "1": 1.075780017769999e-8,
+  "10": 1.075780017769999e-7,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.075780017769999e-8,
+  "0": 0,
+  "1": 1.075780017769999e-8,
+  "10": 1.075780017769999e-7,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -160934.4,
+  "0": 0,
+  "1": 160934.4,
+  "10": 1609344,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -160934.4,
+  "0": 0,
+  "1": 160934.4,
+  "10": 1609344,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -80,
+  "0": 0,
+  "1": 80,
+  "10": 800,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -80,
+  "0": 0,
+  "1": 80,
+  "10": 800,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -5280,
+  "0": 0,
+  "1": 5280,
+  "10": 52800,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -5280,
+  "0": 0,
+  "1": 5280,
+  "10": 52800,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -63359.99999999999,
+  "0": 0,
+  "1": 63359.99999999999,
+  "10": 633600,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -63359.99999999999,
+  "0": 0,
+  "1": 63359.99999999999,
+  "10": 633600,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1.609344,
+  "0": 0,
+  "1": 1.609344,
+  "10": 16.09344,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1.609344,
+  "0": 0,
+  "1": 1.609344,
+  "10": 16.09344,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1609344,
+  "0": 0,
+  "1": 1609344,
+  "10": 16093440,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1609344,
+  "0": 0,
+  "1": 1609344,
+  "10": 16093440,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -2112,
+  "0": 0,
+  "1": 2112,
+  "10": 21120,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -2112,
+  "0": 0,
+  "1": 2112,
+  "10": 21120,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1.609344e-9,
+  "0": 0,
+  "1": 1.609344e-9,
+  "10": 1.6093440000000002e-8,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1.609344e-9,
+  "0": 0,
+  "1": 1.609344e-9,
+  "10": 1.6093440000000002e-8,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -91238399.99999999,
+  "0": 0,
+  "1": 91238399.99999999,
+  "10": 912383999.9999999,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -91238399.99999999,
+  "0": 0,
+  "1": 91238399.99999999,
+  "10": 912383999.9999999,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1759.9999999999998,
+  "0": 0,
+  "1": 1759.9999999999998,
+  "10": 17600,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1759.9999999999998,
+  "0": 0,
+  "1": 1759.9999999999998,
+  "10": 17600,
+}
+`;
+
+exports[`\`length\` type units \`miles\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1609.344,
+  "0": 0,
+  "1": 1609.344,
+  "10": 16093.44,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-15,
+  "0": 0,
+  "1": 6.684587122268446e-15,
+  "10": 6.684587122268446e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-15,
+  "0": 0,
+  "1": 6.684587122268446e-15,
+  "10": 6.684587122268446e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -0.1,
+  "0": 0,
+  "1": 0.1,
+  "10": 1,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -0.1,
+  "0": 0,
+  "1": 0.1,
+  "10": 1,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.000049709695378986714,
+  "0": 0,
+  "1": 0.000049709695378986714,
+  "10": 0.0004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.000049709695378986714,
+  "0": 0,
+  "1": 0.000049709695378986714,
+  "10": 0.0004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.0032808398950131233,
+  "0": 0,
+  "1": 0.0032808398950131233,
+  "10": 0.03280839895013123,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.0032808398950131233,
+  "0": 0,
+  "1": 0.0032808398950131233,
+  "10": 0.03280839895013123,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.03937007874015748,
+  "0": 0,
+  "1": 0.03937007874015748,
+  "10": 0.39370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.03937007874015748,
+  "0": 0,
+  "1": 0.03937007874015748,
+  "10": 0.39370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.000001,
+  "0": 0,
+  "1": 0.000001,
+  "10": 0.00001,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.000001,
+  "0": 0,
+  "1": 0.000001,
+  "10": 0.00001,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -6.21371192237334e-7,
+  "0": 0,
+  "1": 6.21371192237334e-7,
+  "10": 0.000006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -6.21371192237334e-7,
+  "0": 0,
+  "1": 6.21371192237334e-7,
+  "10": 0.000006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.0013123359580052493,
+  "0": 0,
+  "1": 0.0013123359580052493,
+  "10": 0.013123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.0013123359580052493,
+  "0": 0,
+  "1": 0.0013123359580052493,
+  "10": 0.013123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-15,
+  "0": 0,
+  "1": 1e-15,
+  "10": 1e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-15,
+  "0": 0,
+  "1": 1e-15,
+  "10": 1e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56.69291338582676,
+  "0": 0,
+  "1": 56.69291338582676,
+  "10": 566.9291338582676,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56.69291338582676,
+  "0": 0,
+  "1": 56.69291338582676,
+  "10": 566.9291338582676,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.0010936132983377076,
+  "0": 0,
+  "1": 0.0010936132983377076,
+  "10": 0.010936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.0010936132983377076,
+  "0": 0,
+  "1": 0.0010936132983377076,
+  "10": 0.010936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`millimetre\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-15,
+  "0": 0,
+  "1": 6.684587122268446e-15,
+  "10": 6.684587122268446e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446e-15,
+  "0": 0,
+  "1": 6.684587122268446e-15,
+  "10": 6.684587122268446e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -0.1,
+  "0": 0,
+  "1": 0.1,
+  "10": 1,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -0.1,
+  "0": 0,
+  "1": 0.1,
+  "10": 1,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.000049709695378986714,
+  "0": 0,
+  "1": 0.000049709695378986714,
+  "10": 0.0004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.000049709695378986714,
+  "0": 0,
+  "1": 0.000049709695378986714,
+  "10": 0.0004970969537898671,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.0032808398950131233,
+  "0": 0,
+  "1": 0.0032808398950131233,
+  "10": 0.03280839895013123,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.0032808398950131233,
+  "0": 0,
+  "1": 0.0032808398950131233,
+  "10": 0.03280839895013123,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.03937007874015748,
+  "0": 0,
+  "1": 0.03937007874015748,
+  "10": 0.39370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.03937007874015748,
+  "0": 0,
+  "1": 0.03937007874015748,
+  "10": 0.39370078740157477,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.000001,
+  "0": 0,
+  "1": 0.000001,
+  "10": 0.00001,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.000001,
+  "0": 0,
+  "1": 0.000001,
+  "10": 0.00001,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -6.21371192237334e-7,
+  "0": 0,
+  "1": 6.21371192237334e-7,
+  "10": 0.000006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -6.21371192237334e-7,
+  "0": 0,
+  "1": 6.21371192237334e-7,
+  "10": 0.000006213711922373339,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.0013123359580052493,
+  "0": 0,
+  "1": 0.0013123359580052493,
+  "10": 0.013123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.0013123359580052493,
+  "0": 0,
+  "1": 0.0013123359580052493,
+  "10": 0.013123359580052493,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1e-15,
+  "0": 0,
+  "1": 1e-15,
+  "10": 1e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1e-15,
+  "0": 0,
+  "1": 1e-15,
+  "10": 1e-14,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56.69291338582676,
+  "0": 0,
+  "1": 56.69291338582676,
+  "10": 566.9291338582676,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56.69291338582676,
+  "0": 0,
+  "1": 56.69291338582676,
+  "10": 566.9291338582676,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.0010936132983377076,
+  "0": 0,
+  "1": 0.0010936132983377076,
+  "10": 0.010936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.0010936132983377076,
+  "0": 0,
+  "1": 0.0010936132983377076,
+  "10": 0.010936132983377077,
+}
+`;
+
+exports[`\`length\` type units \`millimetres\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.001,
+  "0": 0,
+  "1": 0.001,
+  "10": 0.01,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -5.093655387168556e-12,
+  "0": 0,
+  "1": 5.093655387168556e-12,
+  "10": 5.0936553871685554e-11,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -5.093655387168556e-12,
+  "0": 0,
+  "1": 5.093655387168556e-12,
+  "10": 5.0936553871685554e-11,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -76.2,
+  "0": 0,
+  "1": 76.2,
+  "10": 762,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -76.2,
+  "0": 0,
+  "1": 76.2,
+  "10": 762,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.03787878787878788,
+  "0": 0,
+  "1": 0.03787878787878788,
+  "10": 0.3787878787878788,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.03787878787878788,
+  "0": 0,
+  "1": 0.03787878787878788,
+  "10": 0.3787878787878788,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -2.5,
+  "0": 0,
+  "1": 2.5,
+  "10": 25,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -2.5,
+  "0": 0,
+  "1": 2.5,
+  "10": 25,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -29.999999999999996,
+  "0": 0,
+  "1": 29.999999999999996,
+  "10": 300,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -29.999999999999996,
+  "0": 0,
+  "1": 29.999999999999996,
+  "10": 300,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.000762,
+  "0": 0,
+  "1": 0.000762,
+  "10": 0.00762,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.000762,
+  "0": 0,
+  "1": 0.000762,
+  "10": 0.00762,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0004734848484848485,
+  "0": 0,
+  "1": 0.0004734848484848485,
+  "10": 0.004734848484848485,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0004734848484848485,
+  "0": 0,
+  "1": 0.0004734848484848485,
+  "10": 0.004734848484848485,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -762,
+  "0": 0,
+  "1": 762,
+  "10": 7620,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -762,
+  "0": 0,
+  "1": 762,
+  "10": 7620,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -7.62e-13,
+  "0": 0,
+  "1": 7.62e-13,
+  "10": 7.62e-12,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -7.62e-13,
+  "0": 0,
+  "1": 7.62e-13,
+  "10": 7.62e-12,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -43199.99999999999,
+  "0": 0,
+  "1": 43199.99999999999,
+  "10": 431999.99999999994,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -43199.99999999999,
+  "0": 0,
+  "1": 43199.99999999999,
+  "10": 431999.99999999994,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.8333333333333333,
+  "0": 0,
+  "1": 0.8333333333333333,
+  "10": 8.333333333333332,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.8333333333333333,
+  "0": 0,
+  "1": 0.8333333333333333,
+  "10": 8.333333333333332,
+}
+`;
+
+exports[`\`length\` type units \`pace\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -5.093655387168556e-12,
+  "0": 0,
+  "1": 5.093655387168556e-12,
+  "10": 5.0936553871685554e-11,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -5.093655387168556e-12,
+  "0": 0,
+  "1": 5.093655387168556e-12,
+  "10": 5.0936553871685554e-11,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -76.2,
+  "0": 0,
+  "1": 76.2,
+  "10": 762,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -76.2,
+  "0": 0,
+  "1": 76.2,
+  "10": 762,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.03787878787878788,
+  "0": 0,
+  "1": 0.03787878787878788,
+  "10": 0.3787878787878788,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.03787878787878788,
+  "0": 0,
+  "1": 0.03787878787878788,
+  "10": 0.3787878787878788,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -2.5,
+  "0": 0,
+  "1": 2.5,
+  "10": 25,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -2.5,
+  "0": 0,
+  "1": 2.5,
+  "10": 25,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -29.999999999999996,
+  "0": 0,
+  "1": 29.999999999999996,
+  "10": 300,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -29.999999999999996,
+  "0": 0,
+  "1": 29.999999999999996,
+  "10": 300,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.000762,
+  "0": 0,
+  "1": 0.000762,
+  "10": 0.00762,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.000762,
+  "0": 0,
+  "1": 0.000762,
+  "10": 0.00762,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0004734848484848485,
+  "0": 0,
+  "1": 0.0004734848484848485,
+  "10": 0.004734848484848485,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0004734848484848485,
+  "0": 0,
+  "1": 0.0004734848484848485,
+  "10": 0.004734848484848485,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -762,
+  "0": 0,
+  "1": 762,
+  "10": 7620,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -762,
+  "0": 0,
+  "1": 762,
+  "10": 7620,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -7.62e-13,
+  "0": 0,
+  "1": 7.62e-13,
+  "10": 7.62e-12,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -7.62e-13,
+  "0": 0,
+  "1": 7.62e-13,
+  "10": 7.62e-12,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -43199.99999999999,
+  "0": 0,
+  "1": 43199.99999999999,
+  "10": 431999.99999999994,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -43199.99999999999,
+  "0": 0,
+  "1": 43199.99999999999,
+  "10": 431999.99999999994,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.8333333333333333,
+  "0": 0,
+  "1": 0.8333333333333333,
+  "10": 8.333333333333332,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.8333333333333333,
+  "0": 0,
+  "1": 0.8333333333333333,
+  "10": 8.333333333333332,
+}
+`;
+
+exports[`\`length\` type units \`paces\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.762,
+  "0": 0,
+  "1": 0.762,
+  "10": 7.62,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446,
+  "0": 0,
+  "1": 6.684587122268446,
+  "10": 66.84587122268445,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446,
+  "0": 0,
+  "1": 6.684587122268446,
+  "10": 66.84587122268445,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100000000000000,
+  "0": 0,
+  "1": 100000000000000,
+  "10": 1000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100000000000000,
+  "0": 0,
+  "1": 100000000000000,
+  "10": 1000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -49709695378.98672,
+  "0": 0,
+  "1": 49709695378.98672,
+  "10": 497096953789.8671,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -49709695378.98672,
+  "0": 0,
+  "1": 49709695378.98672,
+  "10": 497096953789.8671,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3280839895013.123,
+  "0": 0,
+  "1": 3280839895013.123,
+  "10": 32808398950131.23,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3280839895013.123,
+  "0": 0,
+  "1": 3280839895013.123,
+  "10": 32808398950131.23,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39370078740157.48,
+  "0": 0,
+  "1": 39370078740157.48,
+  "10": 393700787401574.75,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39370078740157.48,
+  "0": 0,
+  "1": 39370078740157.48,
+  "10": 393700787401574.75,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1000000000,
+  "0": 0,
+  "1": 1000000000,
+  "10": 10000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1000000000,
+  "0": 0,
+  "1": 1000000000,
+  "10": 10000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -621371192.2373339,
+  "0": 0,
+  "1": 621371192.2373339,
+  "10": 6213711922.37334,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -621371192.2373339,
+  "0": 0,
+  "1": 621371192.2373339,
+  "10": 6213711922.37334,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000000000000000,
+  "0": 0,
+  "1": 1000000000000000,
+  "10": 10000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000000000000000,
+  "0": 0,
+  "1": 1000000000000000,
+  "10": 10000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1312335958005.2493,
+  "0": 0,
+  "1": 1312335958005.2493,
+  "10": 13123359580052.494,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1312335958005.2493,
+  "0": 0,
+  "1": 1312335958005.2493,
+  "10": 13123359580052.494,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692913385826760,
+  "0": 0,
+  "1": 56692913385826760,
+  "10": 566929133858267600,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692913385826760,
+  "0": 0,
+  "1": 56692913385826760,
+  "10": 566929133858267600,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1093613298337.7076,
+  "0": 0,
+  "1": 1093613298337.7076,
+  "10": 10936132983377.076,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1093613298337.7076,
+  "0": 0,
+  "1": 1093613298337.7076,
+  "10": 10936132983377.076,
+}
+`;
+
+exports[`\`length\` type units \`spat\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.684587122268446,
+  "0": 0,
+  "1": 6.684587122268446,
+  "10": 66.84587122268445,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.684587122268446,
+  "0": 0,
+  "1": 6.684587122268446,
+  "10": 66.84587122268445,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -100000000000000,
+  "0": 0,
+  "1": 100000000000000,
+  "10": 1000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -100000000000000,
+  "0": 0,
+  "1": 100000000000000,
+  "10": 1000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -49709695378.98672,
+  "0": 0,
+  "1": 49709695378.98672,
+  "10": 497096953789.8671,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -49709695378.98672,
+  "0": 0,
+  "1": 49709695378.98672,
+  "10": 497096953789.8671,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3280839895013.123,
+  "0": 0,
+  "1": 3280839895013.123,
+  "10": 32808398950131.23,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3280839895013.123,
+  "0": 0,
+  "1": 3280839895013.123,
+  "10": 32808398950131.23,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -39370078740157.48,
+  "0": 0,
+  "1": 39370078740157.48,
+  "10": 393700787401574.75,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -39370078740157.48,
+  "0": 0,
+  "1": 39370078740157.48,
+  "10": 393700787401574.75,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1000000000,
+  "0": 0,
+  "1": 1000000000,
+  "10": 10000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1000000000,
+  "0": 0,
+  "1": 1000000000,
+  "10": 10000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -621371192.2373339,
+  "0": 0,
+  "1": 621371192.2373339,
+  "10": 6213711922.37334,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -621371192.2373339,
+  "0": 0,
+  "1": 621371192.2373339,
+  "10": 6213711922.37334,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -1000000000000000,
+  "0": 0,
+  "1": 1000000000000000,
+  "10": 10000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -1000000000000000,
+  "0": 0,
+  "1": 1000000000000000,
+  "10": 10000000000000000,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1312335958005.2493,
+  "0": 0,
+  "1": 1312335958005.2493,
+  "10": 13123359580052.494,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1312335958005.2493,
+  "0": 0,
+  "1": 1312335958005.2493,
+  "10": 13123359580052.494,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -56692913385826760,
+  "0": 0,
+  "1": 56692913385826760,
+  "10": 566929133858267600,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -56692913385826760,
+  "0": 0,
+  "1": 56692913385826760,
+  "10": 566929133858267600,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -1093613298337.7076,
+  "0": 0,
+  "1": 1093613298337.7076,
+  "10": 10936132983377.076,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -1093613298337.7076,
+  "0": 0,
+  "1": 1093613298337.7076,
+  "10": 10936132983377.076,
+}
+`;
+
+exports[`\`length\` type units \`spats\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -1000000000000,
+  "0": 0,
+  "1": 1000000000000,
+  "10": 10000000000000,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.1790868951779067e-16,
+  "0": 0,
+  "1": 1.1790868951779067e-16,
+  "10": 1.1790868951779066e-15,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.1790868951779067e-16,
+  "0": 0,
+  "1": 1.1790868951779067e-16,
+  "10": 1.1790868951779066e-15,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -0.0017638888888888893,
+  "0": 0,
+  "1": 0.0017638888888888893,
+  "10": 0.01763888888888889,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -0.0017638888888888893,
+  "0": 0,
+  "1": 0.0017638888888888893,
+  "10": 0.01763888888888889,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -8.768237934904603e-7,
+  "0": 0,
+  "1": 8.768237934904603e-7,
+  "10": 0.000008768237934904604,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -8.768237934904603e-7,
+  "0": 0,
+  "1": 8.768237934904603e-7,
+  "10": 0.000008768237934904604,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.00005787037037037038,
+  "0": 0,
+  "1": 0.00005787037037037038,
+  "10": 0.0005787037037037038,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.00005787037037037038,
+  "0": 0,
+  "1": 0.00005787037037037038,
+  "10": 0.0005787037037037038,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.0006944444444444445,
+  "0": 0,
+  "1": 0.0006944444444444445,
+  "10": 0.006944444444444446,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.0006944444444444445,
+  "0": 0,
+  "1": 0.0006944444444444445,
+  "10": 0.006944444444444446,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-8,
+  "0": 0,
+  "1": 1.7638888888888892e-8,
+  "10": 1.7638888888888894e-7,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-8,
+  "0": 0,
+  "1": 1.7638888888888892e-8,
+  "10": 1.7638888888888894e-7,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -1.0960297418630753e-8,
+  "0": 0,
+  "1": 1.0960297418630753e-8,
+  "10": 1.0960297418630755e-7,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -1.0960297418630753e-8,
+  "0": 0,
+  "1": 1.0960297418630753e-8,
+  "10": 1.0960297418630755e-7,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -0.01763888888888889,
+  "0": 0,
+  "1": 0.01763888888888889,
+  "10": 0.17638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -0.01763888888888889,
+  "0": 0,
+  "1": 0.01763888888888889,
+  "10": 0.17638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.000023148148148148154,
+  "0": 0,
+  "1": 0.000023148148148148154,
+  "10": 0.00023148148148148154,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.000023148148148148154,
+  "0": 0,
+  "1": 0.000023148148148148154,
+  "10": 0.00023148148148148154,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-17,
+  "0": 0,
+  "1": 1.7638888888888892e-17,
+  "10": 1.7638888888888894e-16,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-17,
+  "0": 0,
+  "1": 1.7638888888888892e-17,
+  "10": 1.7638888888888894e-16,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.000019290123456790126,
+  "0": 0,
+  "1": 0.000019290123456790126,
+  "10": 0.00019290123456790125,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.000019290123456790126,
+  "0": 0,
+  "1": 0.000019290123456790126,
+  "10": 0.00019290123456790125,
+}
+`;
+
+exports[`\`length\` type units \`twip\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -1.1790868951779067e-16,
+  "0": 0,
+  "1": 1.1790868951779067e-16,
+  "10": 1.1790868951779066e-15,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -1.1790868951779067e-16,
+  "0": 0,
+  "1": 1.1790868951779067e-16,
+  "10": 1.1790868951779066e-15,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -0.0017638888888888893,
+  "0": 0,
+  "1": 0.0017638888888888893,
+  "10": 0.01763888888888889,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -0.0017638888888888893,
+  "0": 0,
+  "1": 0.0017638888888888893,
+  "10": 0.01763888888888889,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -8.768237934904603e-7,
+  "0": 0,
+  "1": 8.768237934904603e-7,
+  "10": 0.000008768237934904604,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -8.768237934904603e-7,
+  "0": 0,
+  "1": 8.768237934904603e-7,
+  "10": 0.000008768237934904604,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -0.00005787037037037038,
+  "0": 0,
+  "1": 0.00005787037037037038,
+  "10": 0.0005787037037037038,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -0.00005787037037037038,
+  "0": 0,
+  "1": 0.00005787037037037038,
+  "10": 0.0005787037037037038,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -0.0006944444444444445,
+  "0": 0,
+  "1": 0.0006944444444444445,
+  "10": 0.006944444444444446,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -0.0006944444444444445,
+  "0": 0,
+  "1": 0.0006944444444444445,
+  "10": 0.006944444444444446,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-8,
+  "0": 0,
+  "1": 1.7638888888888892e-8,
+  "10": 1.7638888888888894e-7,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-8,
+  "0": 0,
+  "1": 1.7638888888888892e-8,
+  "10": 1.7638888888888894e-7,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -1.0960297418630753e-8,
+  "0": 0,
+  "1": 1.0960297418630753e-8,
+  "10": 1.0960297418630755e-7,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -1.0960297418630753e-8,
+  "0": 0,
+  "1": 1.0960297418630753e-8,
+  "10": 1.0960297418630755e-7,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -0.01763888888888889,
+  "0": 0,
+  "1": 0.01763888888888889,
+  "10": 0.17638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -0.01763888888888889,
+  "0": 0,
+  "1": 0.01763888888888889,
+  "10": 0.17638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -0.000023148148148148154,
+  "0": 0,
+  "1": 0.000023148148148148154,
+  "10": 0.00023148148148148154,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -0.000023148148148148154,
+  "0": 0,
+  "1": 0.000023148148148148154,
+  "10": 0.00023148148148148154,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-17,
+  "0": 0,
+  "1": 1.7638888888888892e-17,
+  "10": 1.7638888888888894e-16,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -1.7638888888888892e-17,
+  "0": 0,
+  "1": 1.7638888888888892e-17,
+  "10": 1.7638888888888894e-16,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`yard\` 1`] = `
+Object {
+  "-1": -0.000019290123456790126,
+  "0": 0,
+  "1": 0.000019290123456790126,
+  "10": 0.00019290123456790125,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts correctly into \`yards\` 1`] = `
+Object {
+  "-1": -0.000019290123456790126,
+  "0": 0,
+  "1": 0.000019290123456790126,
+  "10": 0.00019290123456790125,
+}
+`;
+
+exports[`\`length\` type units \`twips\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.000017638888888888893,
+  "0": 0,
+  "1": 0.000017638888888888893,
+  "10": 0.00017638888888888893,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.112386464602267e-12,
+  "0": 0,
+  "1": 6.112386464602267e-12,
+  "10": 6.112386464602268e-11,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.112386464602267e-12,
+  "0": 0,
+  "1": 6.112386464602267e-12,
+  "10": 6.112386464602268e-11,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -91.44000000000001,
+  "0": 0,
+  "1": 91.44000000000001,
+  "10": 914.4000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -91.44000000000001,
+  "0": 0,
+  "1": 91.44000000000001,
+  "10": 914.4000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.045454545454545456,
+  "0": 0,
+  "1": 0.045454545454545456,
+  "10": 0.4545454545454546,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.045454545454545456,
+  "0": 0,
+  "1": 0.045454545454545456,
+  "10": 0.4545454545454546,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3,
+  "0": 0,
+  "1": 3,
+  "10": 30.000000000000004,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3,
+  "0": 0,
+  "1": 3,
+  "10": 30.000000000000004,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -36,
+  "0": 0,
+  "1": 36,
+  "10": 360.00000000000006,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -36,
+  "0": 0,
+  "1": 36,
+  "10": 360.00000000000006,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0009144000000000001,
+  "0": 0,
+  "1": 0.0009144000000000001,
+  "10": 0.009144000000000001,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0009144000000000001,
+  "0": 0,
+  "1": 0.0009144000000000001,
+  "10": 0.009144000000000001,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0005681818181818183,
+  "0": 0,
+  "1": 0.0005681818181818183,
+  "10": 0.005681818181818183,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0005681818181818183,
+  "0": 0,
+  "1": 0.0005681818181818183,
+  "10": 0.005681818181818183,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -914.4000000000001,
+  "0": 0,
+  "1": 914.4000000000001,
+  "10": 9144.000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -914.4000000000001,
+  "0": 0,
+  "1": 914.4000000000001,
+  "10": 9144.000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1.2000000000000002,
+  "0": 0,
+  "1": 1.2000000000000002,
+  "10": 12.000000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1.2000000000000002,
+  "0": 0,
+  "1": 1.2000000000000002,
+  "10": 12.000000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -9.144e-13,
+  "0": 0,
+  "1": 9.144e-13,
+  "10": 9.144000000000002e-12,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -9.144e-13,
+  "0": 0,
+  "1": 9.144e-13,
+  "10": 9.144000000000002e-12,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -51839.99999999999,
+  "0": 0,
+  "1": 51839.99999999999,
+  "10": 518400,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -51839.99999999999,
+  "0": 0,
+  "1": 51839.99999999999,
+  "10": 518400,
+}
+`;
+
+exports[`\`length\` type units \`yard\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`astronomicalUnit\` 1`] = `
+Object {
+  "-1": -6.112386464602267e-12,
+  "0": 0,
+  "1": 6.112386464602267e-12,
+  "10": 6.112386464602268e-11,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`astronomicalUnits\` 1`] = `
+Object {
+  "-1": -6.112386464602267e-12,
+  "0": 0,
+  "1": 6.112386464602267e-12,
+  "10": 6.112386464602268e-11,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`centimetre\` 1`] = `
+Object {
+  "-1": -91.44000000000001,
+  "0": 0,
+  "1": 91.44000000000001,
+  "10": 914.4000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`centimetres\` 1`] = `
+Object {
+  "-1": -91.44000000000001,
+  "0": 0,
+  "1": 91.44000000000001,
+  "10": 914.4000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`chain\` 1`] = `
+Object {
+  "-1": -0.045454545454545456,
+  "0": 0,
+  "1": 0.045454545454545456,
+  "10": 0.4545454545454546,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`chains\` 1`] = `
+Object {
+  "-1": -0.045454545454545456,
+  "0": 0,
+  "1": 0.045454545454545456,
+  "10": 0.4545454545454546,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`feet\` 1`] = `
+Object {
+  "-1": -3,
+  "0": 0,
+  "1": 3,
+  "10": 30.000000000000004,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`foot\` 1`] = `
+Object {
+  "-1": -3,
+  "0": 0,
+  "1": 3,
+  "10": 30.000000000000004,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`inch\` 1`] = `
+Object {
+  "-1": -36,
+  "0": 0,
+  "1": 36,
+  "10": 360.00000000000006,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`inches\` 1`] = `
+Object {
+  "-1": -36,
+  "0": 0,
+  "1": 36,
+  "10": 360.00000000000006,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`kilometre\` 1`] = `
+Object {
+  "-1": -0.0009144000000000001,
+  "0": 0,
+  "1": 0.0009144000000000001,
+  "10": 0.009144000000000001,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`kilometres\` 1`] = `
+Object {
+  "-1": -0.0009144000000000001,
+  "0": 0,
+  "1": 0.0009144000000000001,
+  "10": 0.009144000000000001,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`metre\` 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`metres\` 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`mile\` 1`] = `
+Object {
+  "-1": -0.0005681818181818183,
+  "0": 0,
+  "1": 0.0005681818181818183,
+  "10": 0.005681818181818183,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`miles\` 1`] = `
+Object {
+  "-1": -0.0005681818181818183,
+  "0": 0,
+  "1": 0.0005681818181818183,
+  "10": 0.005681818181818183,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`millimetre\` 1`] = `
+Object {
+  "-1": -914.4000000000001,
+  "0": 0,
+  "1": 914.4000000000001,
+  "10": 9144.000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`millimetres\` 1`] = `
+Object {
+  "-1": -914.4000000000001,
+  "0": 0,
+  "1": 914.4000000000001,
+  "10": 9144.000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`pace\` 1`] = `
+Object {
+  "-1": -1.2000000000000002,
+  "0": 0,
+  "1": 1.2000000000000002,
+  "10": 12.000000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`paces\` 1`] = `
+Object {
+  "-1": -1.2000000000000002,
+  "0": 0,
+  "1": 1.2000000000000002,
+  "10": 12.000000000000002,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`spat\` 1`] = `
+Object {
+  "-1": -9.144e-13,
+  "0": 0,
+  "1": 9.144e-13,
+  "10": 9.144000000000002e-12,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`spats\` 1`] = `
+Object {
+  "-1": -9.144e-13,
+  "0": 0,
+  "1": 9.144e-13,
+  "10": 9.144000000000002e-12,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`twip\` 1`] = `
+Object {
+  "-1": -51839.99999999999,
+  "0": 0,
+  "1": 51839.99999999999,
+  "10": 518400,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts correctly into \`twips\` 1`] = `
+Object {
+  "-1": -51839.99999999999,
+  "0": 0,
+  "1": 51839.99999999999,
+  "10": 518400,
+}
+`;
+
+exports[`\`length\` type units \`yards\` unit converts to an implicit quantity when simply bound 1`] = `
+Object {
+  "-1": -0.9144000000000001,
+  "0": 0,
+  "1": 0.9144000000000001,
+  "10": 9.144000000000002,
+}
+`;
+
+exports[`\`length\` type units are exported as expected 1`] = `
+Array [
+  "astronomicalUnit",
+  "astronomicalUnits",
+  "centimetre",
+  "centimetres",
+  "chain",
+  "chains",
+  "feet",
+  "foot",
+  "inch",
+  "inches",
+  "kilometre",
+  "kilometres",
+  "metre",
+  "metres",
+  "mile",
+  "miles",
+  "millimetre",
+  "millimetres",
+  "pace",
+  "paces",
+  "spat",
+  "spats",
+  "twip",
+  "twips",
+  "yard",
+  "yards",
+]
+`;
+
 exports[`\`temperature\` type units \`celsius\` unit converts correctly into \`degreesFahrenheit\` 1`] = `
 Object {
   "-1": 30.199999999999932,
