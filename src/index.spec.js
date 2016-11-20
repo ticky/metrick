@@ -39,10 +39,6 @@ UNIT_TYPES.forEach((unitTypeName) => {
 
     UNIT_NAMES.forEach((unitType) => {
       describe(`\`${unitType}\` unit`, () => {
-        it('has the correct multiplier', () => {
-          expect(modules[unitTypeName][unitType].multiplier).toMatchSnapshot();
-        });
-
         it('exposes an `in` function', () => {
           expect(modules[unitTypeName][unitType].in).toBeInstanceOf(Function);
         });
@@ -53,17 +49,31 @@ UNIT_TYPES.forEach((unitTypeName) => {
         });
 
         it('converts to an implicit quantity when simply bound', () => {
-          expect(1::modules[unitTypeName][unitType]).toMatchSnapshot();
-          expect(50::modules[unitTypeName][unitType]).toMatchSnapshot();
-          expect((-12)::modules[unitTypeName][unitType]).toMatchSnapshot();
+          const unit = modules[unitTypeName][unitType];
+
+          expect({
+            '0': 0::unit,
+            '1': 1::unit,
+            '10': 10::unit,
+            '-1': (-1)::unit
+          }).toMatchSnapshot();
         });
 
         UNIT_NAMES.forEach((dataTypeTo) => {
+          const unit = modules[unitTypeName][unitType];
+          const toUnit = modules[unitTypeName][dataTypeTo];
+
+          if (unit === toUnit) {
+            return;
+          }
+
           it(`converts correctly into \`${dataTypeTo}\``, () => {
-            expect(0::modules[unitTypeName][unitType].in(modules[unitTypeName][dataTypeTo])).toMatchSnapshot();
-            expect(1::modules[unitTypeName][unitType].in(modules[unitTypeName][dataTypeTo])).toMatchSnapshot();
-            expect(50::modules[unitTypeName][unitType].in(modules[unitTypeName][dataTypeTo])).toMatchSnapshot();
-            expect((-12)::modules[unitTypeName][unitType].in(modules[unitTypeName][dataTypeTo])).toMatchSnapshot();
+            expect({
+              '0': 0::unit.in(toUnit),
+              '1': 1::unit.in(toUnit),
+              '10': 10::unit.in(toUnit),
+              '-1': (-1)::unit.in(toUnit)
+            }).toMatchSnapshot();
           });
         });
       });
