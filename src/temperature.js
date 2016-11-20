@@ -6,27 +6,24 @@ export default class Temperature extends Unit {}
 export const kelvin = new Temperature();
 export const degreesKelvin = kelvin;
 
-const CELSIUS_OFFSET = 273.15;
 export const celsius = new Temperature({
   convertToBase(value) {
-    return value + CELSIUS_OFFSET;
+    return value + 273.15;
   },
 
   convertFromBase(value) {
-    return value - CELSIUS_OFFSET;
+    return value - 273.15;
   }
 });
 export const degreesCelsius = celsius;
 
-const FAHRENHEIT_OFFSET = 459.67;
-const FAHRENHEIT_DIVISOR = (5 / 9);
 export const fahrenheit = new Temperature({
   convertToBase(value) {
-    return (value + FAHRENHEIT_OFFSET) * FAHRENHEIT_DIVISOR;
+    return (value + 459.67) * 5 / 9;
   },
 
   convertFromBase(value) {
-    return value / FAHRENHEIT_DIVISOR - FAHRENHEIT_OFFSET;
+    return value * 1.8 - 459.67;
   }
 });
 export const degreesFahrenheit = fahrenheit;
