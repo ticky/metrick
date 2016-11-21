@@ -71,7 +71,7 @@ Configure Babel to transform function bind syntax by installing `babel-plugin-tr
 
 ### Custom unit types
 
-A base Unit constructor exists, which you can extend to create your own classes of unit. All conversion functionality is already included, and all you need to do is extend and make use of it!
+A base Unit constructor exists, which you can extend to create your own classes of unit. All you need to do is extend it!
 
 For instance, here's an implementation of an [Illuminance](https://en.wikipedia.org/wiki/Conversion_of_units#Illuminance) unit type (a unit unlikely to be included with Metrick 😜);
 
@@ -97,9 +97,12 @@ export default const phot = new Illuminance(10000::lux);
 ### Custom units
 
 Each type of unit exposes a constructor to create a compatible unit type.
-The constructors accept a number indicating the relationship between the new unit and that unit type's base unit.
+The constructors accept two forms of defining the relationship between units;
 
-For instance, here's an implementation of [.beats](https://en.wikipedia.org/wiki/Swatch_Internet_Time) as a Duration unit;
+* One `Number` argument, indicating the multiplier between the unit and the base unit
+* Two `Function`s, each accepting one numeric argument and transform to and from the base unit
+
+For instance, here's an implementation of [.beats](https://en.wikipedia.org/wiki/Swatch_Internet_Time) as a Duration unit, using the multiplier argument;
 
 ```javascript
 import Duration, { days, seconds, minutes } from 'metrick/duration';
@@ -112,6 +115,25 @@ const dotBeats = dotBeat;
 
 console.log(1::dotBeat.in(minutes));   // => 1.4400000000000002
 console.log(12::dotBeats.in(minutes)); // => 17.280000000000005
+```
+
+As an example of providing Functions, here's an implementation of a Gas Mark temperature conversion;
+
+```javascript
+import Temperature, { celsius } from 'metrick/temperature';
+
+const gasMark = new Temperature(
+  (temperature) => (
+    temperature * 14 + 394.15
+  ),
+
+  (temperature) => (
+    (temperature - 394.15) / 14
+  )
+);
+
+console.log(1::gasMark.in(celsius)); // => 135
+console.log(5::gasMark.in(celsius)); // => 191
 ```
 
 ### Included units
@@ -160,6 +182,30 @@ _**Note**: All built-in units are exported with their singular and plural names 
 * `seconds` (SI base unit)
 * `weeks`
 * `years`
+
+#### Length
+
+##### Metric
+
+* `centimetres`
+* `kilometres`
+* `metres` (SI base unit, implicit unit)
+* `millimetres`
+
+##### Imperial
+
+* `chains`
+* `feet` (singular is `foot`)
+* `inches` (singular is `inch`)
+* `miles`
+* `paces`
+* `yards`
+
+##### Weird
+
+* `spats`
+* `twips`
+* `astronomicalUnits`
 
 #### Temperature
 

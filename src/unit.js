@@ -1,10 +1,6 @@
 export default class Unit {
-  constructor(multiplierOrMethods) {
+  constructor(unitToBaseOrMultiplier = 1, unitFromBase) {
     const fromUnit = this;
-
-    fromUnit.multiplier = (typeof multiplierOrMethods === 'number')
-      ? multiplierOrMethods
-      : 1;
 
     fromUnit.in = function(toUnit) {
       const value = this;
@@ -12,17 +8,26 @@ export default class Unit {
       return (::fromUnit.convertTo(value, toUnit));
     };
 
-    if (multiplierOrMethods instanceof Object) {
-      Object.keys(multiplierOrMethods).forEach((overrideMethodName) => {
-        if (ALLOWED_OVERRIDES.indexOf(overrideMethodName) === -1) {
-          throw new Error(
-            `${fromUnit.constructor.name}: Overriding \`${overrideMethodName}\` is not supported!`
-          );
-        }
+    if (typeof unitToBaseOrMultiplier === 'number') {
+      fromUnit.multiplier = unitToBaseOrMultiplier;
 
-        fromUnit[overrideMethodName] = multiplierOrMethods[overrideMethodName];
-      });
+      return fromUnit;
+    } else if (typeof unitToBaseOrMultiplier === 'function') {
+      if (typeof unitFromBase !== 'function') {
+        throw new TypeError(
+          `${fromUnit.constructor.name}: If a \`convertToBase\` function is supplied, a \`convertFromBase\` function must also be supplied!`
+        );
+      }
+
+      fromUnit.convertToBase = unitToBaseOrMultiplier;
+      fromUnit.convertFromBase = unitFromBase;
+
+      return fromUnit;
     }
+
+    throw new TypeError(
+      `${fromUnit.constructor.name}: Unsupported arguments! Got ${typeof unitToBaseOrMultiplier} and ${typeof unitFromBase}!`
+    );
   }
 
   bind(value) {
@@ -67,10 +72,3 @@ export default class Unit {
     return valueInToUnit;
   }
 }
-
-const ALLOWED_OVERRIDES = [
-  'multiplier',
-  // these reference the real function so they throw if renamed
-  Unit.prototype.convertToBase.name,
-  Unit.prototype.convertFromBase.name
-];

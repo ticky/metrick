@@ -1,4 +1,16 @@
+exports[`Unit constructor allows specifying a simple multiplier 1`] = `2`;
+
+exports[`Unit constructor allows specifying a simple multiplier 2`] = `30`;
+
+exports[`Unit constructor throws if supplied an invalid argument 1`] = `"Unit: Unsupported arguments! Got object and undefined!"`;
+
+exports[`Unit constructor throws if supplied an invalid argument 2`] = `"Unit: If a \`convertToBase\` function is supplied, a \`convertFromBase\` function must also be supplied!"`;
+
+exports[`Unit constructor throws if supplied an invalid argument 3`] = `"Unit: Unsupported arguments! Got object and undefined!"`;
+
 exports[`Unit in accepts a custom unit of the same type 1`] = `58.53658536585366`;
+
+exports[`Unit in accepts a custom unit of the same type 2`] = `0.06833333333333333`;
 
 exports[`Unit in accepts another unit of the same type 1`] = `7200000`;
 
@@ -9,5 +21,3 @@ exports[`Unit in throws if used on a type other than a number 1`] = `"Duration.i
 exports[`Unit in throws if used on a type other than a number 2`] = `"Duration.in: Cannot be used on a non-number! We were given a \`string\`."`;
 
 exports[`Unit in throws if used on a type other than a number 3`] = `"Duration.in: Cannot be used on a non-number! We were given a \`function\`."`;
-
-exports[`Unit throws if overriding an unsupported method 1`] = `"Unit: Overriding \`bind\` is not supported!"`;
