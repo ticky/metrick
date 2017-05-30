@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`Unit constructor allows specifying a simple multiplier 1`] = `2`;
 
 exports[`Unit constructor allows specifying a simple multiplier 2`] = `30`;
