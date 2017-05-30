@@ -1,3 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`\`data\` type units \`bit\` unit converts correctly into \`byte\` 1`] = `
 Object {
   "-1": -0.125,
