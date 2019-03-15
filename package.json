@@ -42,7 +42,7 @@
     "@babel/preset-env": "7.3.4",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "9.0.0",
-    "babel-jest": "23.6.0",
+    "babel-jest": "24.5.0",
     "eslint": "5.15.2",
     "flow-bin": "0.95.1",
     "jest": "24.5.0"
