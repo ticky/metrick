@@ -42,7 +42,7 @@
     "babel-preset-es2015": "6.24.1",
     "eslint": "5.15.2",
     "flow-bin": "0.95.1",
-    "jest": "23.6.0"
+    "jest": "24.5.0"
   },
   "babel": {
     "presets": [
