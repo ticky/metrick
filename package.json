@@ -44,7 +44,7 @@
     "babel-eslint": "9.0.0",
     "babel-jest": "24.8.0",
     "eslint": "6.0.0",
-    "flow-bin": "0.101.0",
+    "flow-bin": "0.102.0",
     "jest": "24.8.0"
   },
   "babel": {
